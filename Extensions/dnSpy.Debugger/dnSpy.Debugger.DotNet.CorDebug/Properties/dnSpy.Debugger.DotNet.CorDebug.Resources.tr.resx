@@ -118,163 +118,163 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DbgAsm_Args" xml:space="preserve">
-    <value>Аргументы</value>
+    <value>Argümanlar</value>
   </data>
   <data name="DbgAsm_Assembly" xml:space="preserve">
-    <value>_Сборка</value>
+    <value>_Assembly</value>
   </data>
   <data name="DbgAsm_BreakAt" xml:space="preserve">
-    <value>_Остановиться в</value>
+    <value>_Atla</value>
   </data>
   <data name="DbgAsm_Host" xml:space="preserve">
-    <value>_Хост</value>
+    <value>_Ana bilgisayar</value>
   </data>
   <data name="DbgAsm_HostArgs" xml:space="preserve">
-    <value>Ар_гументы хоста</value>
+    <value>Ana bilgisayar argümanları</value>
   </data>
   <data name="DbgAsm_WorkingDir" xml:space="preserve">
-    <value>_Рабочий каталог</value>
+    <value>_Çalışma dizini</value>
   </data>
   <data name="DbgBreak_CreateProcessEvent" xml:space="preserve">
-    <value>CreateProcess</value>
+    <value>SüreçYarat</value>
   </data>
   <data name="DbgBreak_Dont" xml:space="preserve">
-    <value>Не прерывать</value>
+    <value>Bozma</value>
   </data>
   <data name="DbgBreak_EntryPoint" xml:space="preserve">
-    <value>Точка входа</value>
+    <value>Giriş Noktası</value>
   </data>
   <data name="Error_CouldNotFindDotNetCoreHost" xml:space="preserve">
-    <value>Не найден хост .NET Core '{0}'</value>
+    <value>.Net Core host '{0}' bulunamadı</value>
   </data>
   <data name="Error_CouldNotStartDebugger" xml:space="preserve">
-    <value>Не могу запустить дебаггер. {0}</value>
+    <value>Hata ayıklayıcı {0} çalıştırılamadı</value>
   </data>
   <data name="Error_CouldNotStartDebuggerCheckAccessToFile" xml:space="preserve">
-    <value>Не могу запустить дебаггер. Убедитесь, что есть доступ к файлу '{0}'
+    <value>Hata ayıklayıcı başlatılamadı. '{0}' dosyasına erişiminiz olduğundan emin olun
 
-Ошибка: {1}</value>
+Hata:{1}</value>
   </data>
   <data name="Error_CouldNotStartDebuggerRequireAdminPrivLvl" xml:space="preserve">
-    <value>Не могу запустить дебаггер. Отлаживаемое приложение требует административных полномочий. Перезапустите dnSpy в режиме администратора и попробуйте снова.</value>
+    <value>Hata ayıklayıcı başlatılamadı. Hata ayıklayıcı programı yönetici izinleri gerektirir. Yönetici izniyle beraber dnSpy'ı tekrar başlatın ve işlemi tekrar deneyin.</value>
   </data>
   <data name="Error_FileDoesNotExist" xml:space="preserve">
-    <value>Файл не существует</value>
+    <value>Dosya mevcut değil</value>
   </data>
   <data name="Error_MissingFilename" xml:space="preserve">
-    <value>Пропущено имя файла</value>
+    <value>Eksik dosya adı</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
-    <value>Отладчик ({0})</value>
+    <value>Hata Ayıklayıcı ({0})</value>
   </data>
   <data name="Thread_UserState_Background" xml:space="preserve">
-    <value>Background</value>
+    <value>Arka plan</value>
   </data>
   <data name="Thread_UserState_Stopped" xml:space="preserve">
-    <value>Stopped</value>
+    <value>Durdu</value>
   </data>
   <data name="Thread_UserState_StopRequested" xml:space="preserve">
-    <value>StopRequested</value>
+    <value>DurmaTalepedildi</value>
   </data>
   <data name="Thread_UserState_Suspended" xml:space="preserve">
-    <value>Suspended</value>
+    <value>Askıya alındı</value>
   </data>
   <data name="Thread_UserState_SuspendRequested" xml:space="preserve">
-    <value>SuspendRequested</value>
+    <value>AskıyaalınmaTalepedildi</value>
   </data>
   <data name="Thread_UserState_ThreadPool" xml:space="preserve">
-    <value>ThreadPool</value>
+    <value>KonuHavuzu</value>
   </data>
   <data name="Thread_UserState_UnsafePoint" xml:space="preserve">
-    <value>UnsafePoint</value>
+    <value>TehlikeliNokta</value>
   </data>
   <data name="Thread_UserState_Unstarted" xml:space="preserve">
-    <value>Unstarted</value>
+    <value>Başlamamış</value>
   </data>
   <data name="Thread_UserState_WaitSleepJoin" xml:space="preserve">
-    <value>WaitSleepJoin</value>
+    <value>BekleUyuKatıl</value>
   </data>
   <data name="UseDnSpy64ExeToDebug32" xml:space="preserve">
-    <value>Для отладки 32-битных приложений используйте 32-бит dnSpy.</value>
+    <value>32-bit uygulamalardaki hataları ayıklamak için dnSpy 32-bit kullanın.</value>
   </data>
   <data name="UseDnSpyExeToDebug64" xml:space="preserve">
-    <value>Для отладки 64-битных приложений используйте 64-бит dnSpy.</value>
+    <value>64 bit uygulamalarda hata ayıklamak için 64 bit dnSpy kullanın.</value>
   </data>
   <data name="ExceptionMessageIsNull" xml:space="preserve">
-    <value>«&lt;сообщение без исключения&gt;»</value>
+    <value>"&lt; istisna mesajı yok &gt;"</value>
   </data>
   <data name="Error_CouldNotStartDebugger2" xml:space="preserve">
-    <value>Не могу запустить дебаггер.
+    <value>Hata ayıklayıcı başlatılamadı.
 
-Ошибка: {0}</value>
+Hata:{0}</value>
   </data>
   <data name="Error_CouldNotAttachToProcess" xml:space="preserve">
-    <value>Не получается присоединиться к процессу {0}</value>
+    <value>{0} ı işlemek için eklenemedi</value>
   </data>
   <data name="Error_ProcessIsAlreadyBeingDebugged" xml:space="preserve">
-    <value>Другой процесс уже отлаживает процесс {0}</value>
+    <value>Başka işlemler zaten işlem {0} 'ın hatalarını ayıklıyor</value>
   </data>
   <data name="StackFrame_NativeFrame" xml:space="preserve">
-    <value>Естественный фрейм {0}</value>
+    <value>Yerli Çerçeve {0}</value>
   </data>
   <data name="StackFrame_AppdomainTransition" xml:space="preserve">
-    <value>Переход AppDomain</value>
+    <value>Uygulama alanı geçişi</value>
   </data>
   <data name="StackFrame_ClassInit" xml:space="preserve">
-    <value>Инициализация Класса</value>
+    <value>Class Init</value>
   </data>
   <data name="StackFrame_Exception" xml:space="preserve">
-    <value>Исключение</value>
+    <value>İstisna</value>
   </data>
   <data name="StackFrame_FunctionEvaluation" xml:space="preserve">
-    <value>Вычисление функции</value>
+    <value>Fonksiyon değerlendirmesi</value>
   </data>
   <data name="StackFrame_InternalCall" xml:space="preserve">
-    <value>Внутренний вызов</value>
+    <value>Dahili Çağrı</value>
   </data>
   <data name="StackFrame_InternalFrame" xml:space="preserve">
-    <value>Внутренний фрейм({0})</value>
+    <value>İç çerçeve ({0})</value>
   </data>
   <data name="StackFrame_JITCompilation" xml:space="preserve">
-    <value>JIT-компиляция</value>
+    <value>JIT Derlemesi</value>
   </data>
   <data name="StackFrame_LightweightFunction" xml:space="preserve">
-    <value>Облегченная функция</value>
+    <value>Lightweight fonksiyonu</value>
   </data>
   <data name="StackFrame_ManagedToNativeTransition" xml:space="preserve">
-    <value>Регулируемый естественным переходом</value>
+    <value>Yerel geçiş başarılı</value>
   </data>
   <data name="StackFrame_NativeToManagedTransition" xml:space="preserve">
-    <value>Переход от управляемого к управляемому</value>
+    <value>Başarılan geçişe yerli</value>
   </data>
   <data name="StackFrame_Security" xml:space="preserve">
-    <value>Безопасность</value>
+    <value>Güvenlik</value>
   </data>
   <data name="GlyphToolTip_IL_offset_0" xml:space="preserve">
-    <value>Смещение в IL {0}</value>
+    <value>IL dengesi {0}</value>
   </data>
   <data name="GlyphToolTip_line_0_character_1" xml:space="preserve">
-    <value>линия {0} символ {1}</value>
+    <value>hat {0} karakter {1}</value>
   </data>
   <data name="GlyphToolTip_NativeAddress" xml:space="preserve">
-    <value>адрес {0}</value>
+    <value>adres {0}</value>
   </data>
   <data name="Error_CouldNotSetNextStatement" xml:space="preserve">
-    <value>Не могу установить следующую инструкцию.</value>
+    <value>Bir sonraki ifade ayarlanamadı.</value>
   </data>
   <data name="Error_CouldNotBreakProcess" xml:space="preserve">
-    <value>Не могу прервать процесс. Ошибка: 0x{0:X8}</value>
+    <value>İşlem durdurulamadı. Hata: 0x{0:X8}</value>
   </data>
   <data name="InternalDebuggerError" xml:space="preserve">
-    <value>Внутренняя ошибка отладчика</value>
+    <value>İç hata ayıklayıcı hatası</value>
   </data>
   <data name="Error_CLRDebuggerErrorOccurred" xml:space="preserve">
-    <value>Произошла ошибка дебаггера CLR. Уничтожьте процесс дебаггера и попробуйте снова.
+    <value>Bir CLR hata ayıklayıcı hatası meydana geldi. Hata ayıklanan süreci sonlandırıp tekrar deneyin.
 
 HR: 0x{0:X8}
-Ошибка: 0x{1:X8}</value>
+Hata: 0x{1:X8}</value>
   </data>
   <data name="DbgAsm_UseHostExecutable" xml:space="preserve">
-    <value>Использовать исполняемый файл хоста</value>
+    <value>Ana bilgisayar da yürütülebilir</value>
   </data>
 </root>

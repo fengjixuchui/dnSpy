@@ -118,163 +118,135 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DbgAsm_Args" xml:space="preserve">
-    <value>Аргументы</value>
+    <value>Argümanlar</value>
   </data>
   <data name="DbgAsm_Assembly" xml:space="preserve">
-    <value>_Сборка</value>
+    <value>_Assembly</value>
   </data>
   <data name="DbgAsm_BreakAt" xml:space="preserve">
-    <value>_Остановиться в</value>
+    <value>_Atla</value>
   </data>
-  <data name="DbgAsm_Host" xml:space="preserve">
-    <value>_Хост</value>
+  <data name="DbgAsm_ConnectionPort" xml:space="preserve">
+    <value>_Giriş</value>
   </data>
-  <data name="DbgAsm_HostArgs" xml:space="preserve">
-    <value>Ар_гументы хоста</value>
+  <data name="DbgAsm_Connect_To_Process" xml:space="preserve">
+    <value>Bağlan</value>
+  </data>
+  <data name="DbgAsm_IP_Address" xml:space="preserve">
+    <value>IP adresi</value>
   </data>
   <data name="DbgAsm_WorkingDir" xml:space="preserve">
-    <value>_Рабочий каталог</value>
+    <value>_Çalışma dizini</value>
   </data>
   <data name="DbgBreak_CreateProcessEvent" xml:space="preserve">
-    <value>CreateProcess</value>
+    <value>SüreçYarat</value>
   </data>
   <data name="DbgBreak_Dont" xml:space="preserve">
-    <value>Не прерывать</value>
+    <value>Bozma</value>
   </data>
   <data name="DbgBreak_EntryPoint" xml:space="preserve">
-    <value>Точка входа</value>
-  </data>
-  <data name="Error_CouldNotFindDotNetCoreHost" xml:space="preserve">
-    <value>Не найден хост .NET Core '{0}'</value>
-  </data>
-  <data name="Error_CouldNotStartDebugger" xml:space="preserve">
-    <value>Не могу запустить дебаггер. {0}</value>
-  </data>
-  <data name="Error_CouldNotStartDebuggerCheckAccessToFile" xml:space="preserve">
-    <value>Не могу запустить дебаггер. Убедитесь, что есть доступ к файлу '{0}'
-
-Ошибка: {1}</value>
-  </data>
-  <data name="Error_CouldNotStartDebuggerRequireAdminPrivLvl" xml:space="preserve">
-    <value>Не могу запустить дебаггер. Отлаживаемое приложение требует административных полномочий. Перезапустите dnSpy в режиме администратора и попробуйте снова.</value>
+    <value>Giriş Noktası</value>
   </data>
   <data name="Error_FileDoesNotExist" xml:space="preserve">
-    <value>Файл не существует</value>
+    <value>Dosya mevcut değil</value>
   </data>
   <data name="Error_MissingFilename" xml:space="preserve">
-    <value>Пропущено имя файла</value>
+    <value>Eksik dosya adı</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
-    <value>Отладчик ({0})</value>
+    <value>Hata Ayıklayıcı ({0})</value>
+  </data>
+  <data name="Error_CouldNotFindFile" xml:space="preserve">
+    <value>{0} bulunamadı</value>
+  </data>
+  <data name="Error_CouldNotConnectToProcess" xml:space="preserve">
+    <value>Hata ayıklanmış işleme bağlanılamadı</value>
+  </data>
+  <data name="Error_CouldNotFindDebuggedProcess" xml:space="preserve">
+    <value>Hata ayıklanmış işlem bulunamadı</value>
+  </data>
+  <data name="Error_ConnectionWasUnexpectedlyClosed" xml:space="preserve">
+    <value>Hata ayıklanmış işleme olan bağlantı beklenmedik şekilde kapandı</value>
+  </data>
+  <data name="Thread_UserState_Aborted" xml:space="preserve">
+    <value>İptal edildi</value>
+  </data>
+  <data name="Thread_UserState_AbortRequested" xml:space="preserve">
+    <value>İptalTalebi</value>
   </data>
   <data name="Thread_UserState_Background" xml:space="preserve">
-    <value>Background</value>
+    <value>Arka plan</value>
   </data>
   <data name="Thread_UserState_Stopped" xml:space="preserve">
-    <value>Stopped</value>
+    <value>Durdu</value>
   </data>
   <data name="Thread_UserState_StopRequested" xml:space="preserve">
-    <value>StopRequested</value>
+    <value>DurmaTalepedildi</value>
   </data>
   <data name="Thread_UserState_Suspended" xml:space="preserve">
-    <value>Suspended</value>
+    <value>Askıya alındı</value>
   </data>
   <data name="Thread_UserState_SuspendRequested" xml:space="preserve">
-    <value>SuspendRequested</value>
-  </data>
-  <data name="Thread_UserState_ThreadPool" xml:space="preserve">
-    <value>ThreadPool</value>
-  </data>
-  <data name="Thread_UserState_UnsafePoint" xml:space="preserve">
-    <value>UnsafePoint</value>
+    <value>AskıyaalınmaTalepedildi</value>
   </data>
   <data name="Thread_UserState_Unstarted" xml:space="preserve">
-    <value>Unstarted</value>
+    <value>Başlamamış</value>
   </data>
   <data name="Thread_UserState_WaitSleepJoin" xml:space="preserve">
-    <value>WaitSleepJoin</value>
-  </data>
-  <data name="UseDnSpy64ExeToDebug32" xml:space="preserve">
-    <value>Для отладки 32-битных приложений используйте 32-бит dnSpy.</value>
-  </data>
-  <data name="UseDnSpyExeToDebug64" xml:space="preserve">
-    <value>Для отладки 64-битных приложений используйте 64-бит dnSpy.</value>
+    <value>BekleUyuKatıl</value>
   </data>
   <data name="ExceptionMessageIsNull" xml:space="preserve">
-    <value>«&lt;сообщение без исключения&gt;»</value>
-  </data>
-  <data name="Error_CouldNotStartDebugger2" xml:space="preserve">
-    <value>Не могу запустить дебаггер.
-
-Ошибка: {0}</value>
-  </data>
-  <data name="Error_CouldNotAttachToProcess" xml:space="preserve">
-    <value>Не получается присоединиться к процессу {0}</value>
-  </data>
-  <data name="Error_ProcessIsAlreadyBeingDebugged" xml:space="preserve">
-    <value>Другой процесс уже отлаживает процесс {0}</value>
-  </data>
-  <data name="StackFrame_NativeFrame" xml:space="preserve">
-    <value>Естественный фрейм {0}</value>
-  </data>
-  <data name="StackFrame_AppdomainTransition" xml:space="preserve">
-    <value>Переход AppDomain</value>
-  </data>
-  <data name="StackFrame_ClassInit" xml:space="preserve">
-    <value>Инициализация Класса</value>
-  </data>
-  <data name="StackFrame_Exception" xml:space="preserve">
-    <value>Исключение</value>
+    <value>"&lt;özel durum iletisi yok&gt;"</value>
   </data>
   <data name="StackFrame_FunctionEvaluation" xml:space="preserve">
-    <value>Вычисление функции</value>
+    <value>Fonksiyon değerlendirmesi</value>
   </data>
-  <data name="StackFrame_InternalCall" xml:space="preserve">
-    <value>Внутренний вызов</value>
+  <data name="StackFrame_NativeTransition" xml:space="preserve">
+    <value>Yerel geçiş</value>
   </data>
-  <data name="StackFrame_InternalFrame" xml:space="preserve">
-    <value>Внутренний фрейм({0})</value>
+  <data name="Error_RuntimeDoesNotSupportCallingGenericMethods" xml:space="preserve">
+    <value>Bu çalışma genelleyici metodları çağırmayı desteklemiyor</value>
   </data>
-  <data name="StackFrame_JITCompilation" xml:space="preserve">
-    <value>JIT-компиляция</value>
+  <data name="Error_CanNotWriteToThisArgument" xml:space="preserve">
+    <value>'this' yazmak mümkün değildir</value>
   </data>
-  <data name="StackFrame_LightweightFunction" xml:space="preserve">
-    <value>Облегченная функция</value>
-  </data>
-  <data name="StackFrame_ManagedToNativeTransition" xml:space="preserve">
-    <value>Регулируемый естественным переходом</value>
-  </data>
-  <data name="StackFrame_NativeToManagedTransition" xml:space="preserve">
-    <value>Переход от управляемого к управляемому</value>
-  </data>
-  <data name="StackFrame_Security" xml:space="preserve">
-    <value>Безопасность</value>
-  </data>
-  <data name="GlyphToolTip_IL_offset_0" xml:space="preserve">
-    <value>Смещение в IL {0}</value>
-  </data>
-  <data name="GlyphToolTip_line_0_character_1" xml:space="preserve">
-    <value>линия {0} символ {1}</value>
-  </data>
-  <data name="GlyphToolTip_NativeAddress" xml:space="preserve">
-    <value>адрес {0}</value>
+  <data name="Error_CannotAccessMemberRuntimeLimitations" xml:space="preserve">
+    <value>Çalışma zamanı sınırlarından dolayı üyeye erişilemedi</value>
   </data>
   <data name="Error_CouldNotSetNextStatement" xml:space="preserve">
-    <value>Не могу установить следующую инструкцию.</value>
+    <value>Bir sonraki ifade ayarlanamadı.</value>
   </data>
-  <data name="Error_CouldNotBreakProcess" xml:space="preserve">
-    <value>Не могу прервать процесс. Ошибка: 0x{0:X8}</value>
+  <data name="DbgAsm_ProcessIsSuspended" xml:space="preserve">
+    <value>İşlem durduruldu ve _hata ayıklayıcı için bekliyor</value>
   </data>
-  <data name="InternalDebuggerError" xml:space="preserve">
-    <value>Внутренняя ошибка отладчика</value>
+  <data name="Error_RuntimeDoesNotSupportSettingNewStatement" xml:space="preserve">
+    <value>Bu çalışma zamanı yeni bir durum ayarını desteklemiyor</value>
   </data>
-  <data name="Error_CLRDebuggerErrorOccurred" xml:space="preserve">
-    <value>Произошла ошибка дебаггера CLR. Уничтожьте процесс дебаггера и попробуйте снова.
-
-HR: 0x{0:X8}
-Ошибка: 0x{1:X8}</value>
+  <data name="AttachToProcessXCommand" xml:space="preserve">
+    <value>İşlem ({0}) a ekleyin...</value>
   </data>
-  <data name="DbgAsm_UseHostExecutable" xml:space="preserve">
-    <value>Использовать исполняемый файл хоста</value>
+  <data name="UnityEditor" xml:space="preserve">
+    <value>Düzenleyici</value>
+  </data>
+  <data name="ConnectToUnity_UseAttachToUnityProcessDlgBoxMessage" xml:space="preserve">
+    <value>İşlem(birim) diyalog kutusunu hata ayıklayıcıya eklemek için ekle'yi kullanın</value>
+  </data>
+  <data name="CanNotSetABreakpointWhenProcessIsPaused" xml:space="preserve">
+    <value>İşlem durdurulduğunda bir kesme noktası ayarlanamaz.</value>
+  </data>
+  <data name="DbgAsm_Executable" xml:space="preserve">
+    <value>Çalıştırılabilir</value>
+  </data>
+  <data name="CouldNotConnectToUnityGame_MakeSureMonoDllFileIsPatched" xml:space="preserve">
+    <value>Oyunun mono.dll dosyasını yamaladığınıza emin olun</value>
+  </data>
+  <data name="DbgAsm_ConnectionTimeoutInSeconds" xml:space="preserve">
+    <value>_Zaman Aşımı (saniye)</value>
+  </data>
+  <data name="AttachToUnityProcess_DebugBuildsOnlyMessage" xml:space="preserve">
+    <value>Bu sadece birim hata ayıklayıcı yapısı içindir</value>
+  </data>
+  <data name="DebuggingUnityGamesText" xml:space="preserve">
+    <value>Unity Oyunları için Hata Ayıklama</value>
   </data>
 </root>

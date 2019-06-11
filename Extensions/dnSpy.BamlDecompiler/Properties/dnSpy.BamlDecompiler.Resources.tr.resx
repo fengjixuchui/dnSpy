@@ -117,106 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AnalyzeCommand" xml:space="preserve">
-    <value>分析(_Z)</value>
+  <data name="BamlOptionDlgTab" xml:space="preserve">
+    <value>BAML geri çözümleyicisi</value>
   </data>
-  <data name="AnalyzerWindowTitle" xml:space="preserve">
-    <value>分析器</value>
+  <data name="BamlSettings_DisassembleBAML" xml:space="preserve">
+    <value>Disassemble BAML</value>
   </data>
-  <data name="AppliedToTreeNode" xml:space="preserve">
-    <value>已应用到</value>
+  <data name="BamlSettings_NewLineOnAttributes" xml:space="preserve">
+    <value>Her satırda bir nitelik</value>
   </data>
-  <data name="AssignedByTreeNode" xml:space="preserve">
-    <value>被赋值于</value>
+  <data name="BamlSettings_UseTabs" xml:space="preserve">
+    <value>Sekmeleri kullan</value>
   </data>
-  <data name="CopyCommand" xml:space="preserve">
-    <value>复制(_Y)</value>
+  <data name="DisassembleBAMLCommand" xml:space="preserve">
+    <value>Disassemble BAML</value>
   </data>
-  <data name="DoubleClick" xml:space="preserve">
-    <value>双击</value>
+  <data name="Error_AttachedEvent" xml:space="preserve">
+    <value>Ekli olay '{0}'.</value>
   </data>
-  <data name="EventAdderTreeNodeName" xml:space="preserve">
-    <value>添加</value>
+  <data name="Error_IComponentConnectorConnetCannotBeParsed" xml:space="preserve">
+    <value>'{0}' sınıfı IComponentConnector.Connect yöntemine sahip, fakat çözümlenemez.</value>
   </data>
-  <data name="EventRemoverTreeNodeName" xml:space="preserve">
-    <value>去除</value>
+  <data name="Error_UnknownConnectionId" xml:space="preserve">
+    <value>Bilinmeyen bağlantı kimliği: {0}</value>
   </data>
-  <data name="ExposedByTreeNode" xml:space="preserve">
-    <value>被公开于</value>
-  </data>
-  <data name="ExtensionMethodsTreeNode" xml:space="preserve">
-    <value>扩展方法</value>
-  </data>
-  <data name="GoToReferenceCommand" xml:space="preserve">
-    <value>转到引用(_G)</value>
-  </data>
-  <data name="GoToReferenceInCodeCommand" xml:space="preserve">
-    <value>显示方法内的引用</value>
-  </data>
-  <data name="GoToReferenceInCodeNewTabCommand" xml:space="preserve">
-    <value>显示方法内的引用（新标签页）(_T)</value>
-  </data>
-  <data name="GoToReferenceNewTabCommand" xml:space="preserve">
-    <value>转到引用（新标签页）(_B)</value>
-  </data>
-  <data name="HidesParent" xml:space="preserve">
-    <value>隐藏</value>
-  </data>
-  <data name="ImplementedByTreeNode" xml:space="preserve">
-    <value>被实现</value>
-  </data>
-  <data name="InstantiatedByTreeNode" xml:space="preserve">
-    <value>被实例化</value>
-  </data>
-  <data name="OverriddenByTreeNode" xml:space="preserve">
-    <value>被重写</value>
-  </data>
-  <data name="OverridesTreeNode" xml:space="preserve">
-    <value>重载</value>
+  <data name="Msg_GlobalNamespace" xml:space="preserve">
+    <value>'{0}' küresel alan adı için önektir.</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
-    <value>分析程序集</value>
-  </data>
-  <data name="PropertyGetterTreeNode" xml:space="preserve">
-    <value>get</value>
-  </data>
-  <data name="PropertySetterTreeNode" xml:space="preserve">
-    <value>set</value>
-  </data>
-  <data name="RaisedByTreeNode" xml:space="preserve">
-    <value>被触发于</value>
-  </data>
-  <data name="ReadByTreeNode" xml:space="preserve">
-    <value>读取于</value>
-  </data>
-  <data name="RemoveCommand" xml:space="preserve">
-    <value>去除(_R)</value>
-  </data>
-  <data name="Searching" xml:space="preserve">
-    <value>搜索中…</value>
-  </data>
-  <data name="ShiftDoubleClick" xml:space="preserve">
-    <value>Shift+双击</value>
-  </data>
-  <data name="ShortCutKeyCtrlC" xml:space="preserve">
-    <value>Ctrl+C</value>
-  </data>
-  <data name="ShortCutKeyCtrlShiftR" xml:space="preserve">
-    <value>Ctrl+Shift+R</value>
-  </data>
-  <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Del</value>
-  </data>
-  <data name="ShowMetadataTokensCommand" xml:space="preserve">
-    <value>显示标记</value>
-  </data>
-  <data name="SyntaxHighlightCommand" xml:space="preserve">
-    <value>语法高亮</value>
-  </data>
-  <data name="UsedByTreeNode" xml:space="preserve">
-    <value>被使用</value>
-  </data>
-  <data name="UsesTreeNode" xml:space="preserve">
-    <value>使用</value>
+    <value>BAML geri çözümleyicisi</value>
   </data>
 </root>

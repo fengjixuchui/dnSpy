@@ -117,106 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AnalyzeCommand" xml:space="preserve">
-    <value>分析(_Z)</value>
+  <data name="AddClassBreakpointCommand" xml:space="preserve">
+    <value>Sınıf kesme noktası ekle</value>
   </data>
-  <data name="AnalyzerWindowTitle" xml:space="preserve">
-    <value>分析器</value>
+  <data name="AddClassTracepointCommand" xml:space="preserve">
+    <value>Sınıf izleme noktası ekle</value>
   </data>
-  <data name="AppliedToTreeNode" xml:space="preserve">
-    <value>已应用到</value>
+  <data name="AddMethodBreakpointCommand" xml:space="preserve">
+    <value>Metod kesme noktası ekle</value>
   </data>
-  <data name="AssignedByTreeNode" xml:space="preserve">
-    <value>被赋值于</value>
+  <data name="BreakWhenExceptionThrownCommand" xml:space="preserve">
+    <value>Fırlatıldığında Durdur</value>
   </data>
-  <data name="CopyCommand" xml:space="preserve">
-    <value>复制(_Y)</value>
+  <data name="Button_Cancel" xml:space="preserve">
+    <value>İptal</value>
   </data>
-  <data name="DoubleClick" xml:space="preserve">
-    <value>双击</value>
+  <data name="CancelLoadingModulesMessage" xml:space="preserve">
+    <value>Modül yükleme durdurulsun mu?</value>
   </data>
-  <data name="EventAdderTreeNodeName" xml:space="preserve">
-    <value>添加</value>
+  <data name="CantEvaluateWhenCurrentFrameIsNative" xml:space="preserve">
+    <value>Geçerli yığın çerçevesi bir yerel yığın çerçevesiyken ifade değerlendirilemiyor</value>
   </data>
-  <data name="EventRemoverTreeNodeName" xml:space="preserve">
-    <value>去除</value>
+  <data name="DecompilerGeneratedVariablesCanNotBeEvaluated" xml:space="preserve">
+    <value>Geri derlenmiş değişkenler hesaplanamaz</value>
   </data>
-  <data name="ExposedByTreeNode" xml:space="preserve">
-    <value>被公开于</value>
+  <data name="GlyphToolTip_IL_offset_0" xml:space="preserve">
+    <value>IL dengesi {0}</value>
   </data>
-  <data name="ExtensionMethodsTreeNode" xml:space="preserve">
-    <value>扩展方法</value>
+  <data name="GlyphToolTip_line_0_character_1" xml:space="preserve">
+    <value>hat {0} karakter {1}</value>
   </data>
-  <data name="GoToReferenceCommand" xml:space="preserve">
-    <value>转到引用(_G)</value>
+  <data name="InternalDebuggerError" xml:space="preserve">
+    <value>İç hata ayıklayıcı hatası</value>
   </data>
-  <data name="GoToReferenceInCodeCommand" xml:space="preserve">
-    <value>显示方法内的引用</value>
+  <data name="LoadModule_InfoText" xml:space="preserve">
+    <value>Modül yükleniyor. Büyük bir modül ise biraz zaman alabilir.</value>
   </data>
-  <data name="GoToReferenceInCodeNewTabCommand" xml:space="preserve">
-    <value>显示方法内的引用（新标签页）(_T)</value>
+  <data name="LoadModule_Title" xml:space="preserve">
+    <value>Dinamik Modülleri Yükleme</value>
   </data>
-  <data name="GoToReferenceNewTabCommand" xml:space="preserve">
-    <value>转到引用（新标签页）(_B)</value>
+  <data name="Method_X_ThrewAnExceptionOfType_Y" xml:space="preserve">
+    <value>'{0}' bir tip '{1}' istisnası oluşturdu</value>
   </data>
-  <data name="HidesParent" xml:space="preserve">
-    <value>隐藏</value>
+  <data name="ModuleMetadataNotFoundOrInvalid" xml:space="preserve">
+    <value>Modülün 'megadata' sı bulunamadı veya geçersiz</value>
   </data>
-  <data name="ImplementedByTreeNode" xml:space="preserve">
-    <value>被实现</value>
+  <data name="Module_BreakProcessBeforeLoadingDynamicModules" xml:space="preserve">
+    <value>Dinamik modüller yüklenmeden önce işlemi durdurmak zorundasınız.</value>
   </data>
-  <data name="InstantiatedByTreeNode" xml:space="preserve">
-    <value>被实例化</value>
+  <data name="NoDotNetObjectFoundAtAddress" xml:space="preserve">
+    <value>Verilen adreste bir obje bulunamadı</value>
   </data>
-  <data name="OverriddenByTreeNode" xml:space="preserve">
-    <value>被重写</value>
+  <data name="NoExceptionOnTheCurrentThread" xml:space="preserve">
+    <value>Geçerli konuda hiçbir istisna yok</value>
   </data>
-  <data name="OverridesTreeNode" xml:space="preserve">
-    <value>重载</value>
+  <data name="ReloadAllMethodBodiesCommand" xml:space="preserve">
+    <value>Tüm method gövdeleri yeniden yükle</value>
   </data>
-  <data name="Plugin_ShortDescription" xml:space="preserve">
-    <value>分析程序集</value>
+  <data name="ReturnValueNotAvailable" xml:space="preserve">
+    <value>Geri dönüş değeri şuanda kullanılabilir değil</value>
   </data>
-  <data name="PropertyGetterTreeNode" xml:space="preserve">
-    <value>get</value>
+  <data name="StepFilter_SteppingOverOperator" xml:space="preserve">
+    <value>İçine adım: '{0}' operatörü üzerine atım at.</value>
   </data>
-  <data name="PropertySetterTreeNode" xml:space="preserve">
-    <value>set</value>
+  <data name="StepFilter_SteppingOverProperty" xml:space="preserve">
+    <value>İçine adım: '{0}' özelliği üzerine atım at.</value>
   </data>
-  <data name="RaisedByTreeNode" xml:space="preserve">
-    <value>被触发于</value>
-  </data>
-  <data name="ReadByTreeNode" xml:space="preserve">
-    <value>读取于</value>
-  </data>
-  <data name="RemoveCommand" xml:space="preserve">
-    <value>去除(_R)</value>
-  </data>
-  <data name="Searching" xml:space="preserve">
-    <value>搜索中…</value>
-  </data>
-  <data name="ShiftDoubleClick" xml:space="preserve">
-    <value>Shift+双击</value>
-  </data>
-  <data name="ShortCutKeyCtrlC" xml:space="preserve">
-    <value>Ctrl+C</value>
-  </data>
-  <data name="ShortCutKeyCtrlShiftR" xml:space="preserve">
-    <value>Ctrl+Shift+R</value>
-  </data>
-  <data name="ShortCutKeyDelete" xml:space="preserve">
-    <value>Del</value>
-  </data>
-  <data name="ShowMetadataTokensCommand" xml:space="preserve">
-    <value>显示标记</value>
-  </data>
-  <data name="SyntaxHighlightCommand" xml:space="preserve">
-    <value>语法高亮</value>
-  </data>
-  <data name="UsedByTreeNode" xml:space="preserve">
-    <value>被使用</value>
-  </data>
-  <data name="UsesTreeNode" xml:space="preserve">
-    <value>使用</value>
+  <data name="UnknownVariableOrObjectId" xml:space="preserve">
+    <value>Bilinmeyen değişken veya obje kimliği</value>
   </data>
 </root>
