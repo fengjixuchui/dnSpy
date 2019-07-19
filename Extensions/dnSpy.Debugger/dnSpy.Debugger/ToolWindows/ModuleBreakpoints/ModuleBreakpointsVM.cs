@@ -91,42 +91,42 @@ namespace dnSpy.Debugger.ToolWindows.ModuleBreakpoints {
 		IEditValueProvider ModuleNameEditValueProvider {
 			get {
 				moduleBreakpointContext.UIDispatcher.VerifyAccess();
-				if (moduleNameEditValueProvider == null)
+				if (moduleNameEditValueProvider is null)
 					moduleNameEditValueProvider = editValueProviderService.Create(ContentTypes.ModuleBreakpointsWindowModuleName, Array.Empty<string>());
 				return moduleNameEditValueProvider;
 			}
 		}
-		IEditValueProvider moduleNameEditValueProvider;
+		IEditValueProvider? moduleNameEditValueProvider;
 
 		IEditValueProvider OrderEditValueProvider {
 			get {
 				moduleBreakpointContext.UIDispatcher.VerifyAccess();
-				if (orderEditValueProvider == null)
+				if (orderEditValueProvider is null)
 					orderEditValueProvider = editValueProviderService.Create(ContentTypes.ModuleBreakpointsWindowOrder, Array.Empty<string>());
 				return orderEditValueProvider;
 			}
 		}
-		IEditValueProvider orderEditValueProvider;
+		IEditValueProvider? orderEditValueProvider;
 
 		IEditValueProvider ProcessNameEditValueProvider {
 			get {
 				moduleBreakpointContext.UIDispatcher.VerifyAccess();
-				if (processNameEditValueProvider == null)
+				if (processNameEditValueProvider is null)
 					processNameEditValueProvider = editValueProviderService.Create(ContentTypes.ModuleBreakpointsWindowProcessName, Array.Empty<string>());
 				return processNameEditValueProvider;
 			}
 		}
-		IEditValueProvider processNameEditValueProvider;
+		IEditValueProvider? processNameEditValueProvider;
 
 		IEditValueProvider AppDomainNameEditValueProvider {
 			get {
 				moduleBreakpointContext.UIDispatcher.VerifyAccess();
-				if (appDomainNameEditValueProvider == null)
+				if (appDomainNameEditValueProvider is null)
 					appDomainNameEditValueProvider = editValueProviderService.Create(ContentTypes.ModuleBreakpointsWindowAppDomainName, Array.Empty<string>());
 				return appDomainNameEditValueProvider;
 			}
 		}
-		IEditValueProvider appDomainNameEditValueProvider;
+		IEditValueProvider? appDomainNameEditValueProvider;
 
 		readonly Lazy<DbgManager> dbgManager;
 		readonly ModuleBreakpointContext moduleBreakpointContext;
@@ -153,9 +153,8 @@ namespace dnSpy.Debugger.ToolWindows.ModuleBreakpoints {
 			this.editValueProviderService = editValueProviderService;
 			this.dbgModuleBreakpointsService = dbgModuleBreakpointsService;
 			var classificationFormatMap = classificationFormatMapService.GetClassificationFormatMap(AppearanceCategoryConstants.UIMisc);
-			moduleBreakpointContext = new ModuleBreakpointContext(uiDispatcher, classificationFormatMap, textElementProvider, new SearchMatcher(searchColumnDefinitions)) {
+			moduleBreakpointContext = new ModuleBreakpointContext(uiDispatcher, classificationFormatMap, textElementProvider, new SearchMatcher(searchColumnDefinitions), moduleBreakpointFormatterProvider.Create()) {
 				SyntaxHighlight = debuggerSettings.SyntaxHighlight,
-				Formatter = moduleBreakpointFormatterProvider.Create(),
 			};
 			Descs = new GridViewColumnDescs {
 				Columns = new GridViewColumnDesc[] {
@@ -163,6 +162,7 @@ namespace dnSpy.Debugger.ToolWindows.ModuleBreakpoints {
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.Name, dnSpy_Debugger_Resources.Column_Name),
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.DynamicModule, dnSpy_Debugger_Resources.Column_DynamicModule),
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.InMemoryModule, dnSpy_Debugger_Resources.Column_InMemoryModule),
+					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.LoadModule, dnSpy_Debugger_Resources.Column_LoadModule),
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.Order, dnSpy_Debugger_Resources.Column_Order),
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.Process, dnSpy_Debugger_Resources.Column_Process),
 					new GridViewColumnDesc(ModuleBreakpointsWindowColumnIds.AppDomain, dnSpy_Debugger_Resources.Column_AppDomain),
@@ -376,7 +376,7 @@ namespace dnSpy.Debugger.ToolWindows.ModuleBreakpoints {
 			var (desc, dir) = Descs.SortedColumn;
 
 			int id;
-			if (desc == null || dir == GridViewSortDirection.Default) {
+			if (desc is null || dir == GridViewSortDirection.Default) {
 				id = ModuleBreakpointsWindowColumnIds.Default_Order;
 				dir = GridViewSortDirection.Ascending;
 			}
@@ -403,6 +403,10 @@ namespace dnSpy.Debugger.ToolWindows.ModuleBreakpoints {
 
 			case ModuleBreakpointsWindowColumnIds.InMemoryModule:
 				diff = Comparer<bool?>.Default.Compare(x.IsInMemory, y.IsInMemory);
+				break;
+
+			case ModuleBreakpointsWindowColumnIds.LoadModule:
+				diff = Comparer<bool?>.Default.Compare(x.IsLoaded, y.IsLoaded);
 				break;
 
 			case ModuleBreakpointsWindowColumnIds.Order:

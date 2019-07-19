@@ -31,20 +31,22 @@ using Microsoft.VisualStudio.Utilities;
 namespace dnSpy.Disassembly.Viewer {
 	sealed class DisassemblyDocumentTabContent : DocumentTabContent, IDisposable {
 		public override string Title { get; }
+		public override object? ToolTip { get; }
 
 		readonly IDocumentViewerContentFactoryProvider documentViewerContentFactoryProvider;
 		readonly DisassemblyContentProvider contentProvider;
 		readonly IContentType asmContentType;
-		DocumentViewerContent cachedDocumentViewerContent;
-		IContentType cachedContentType;
+		DocumentViewerContent? cachedDocumentViewerContent;
+		IContentType? cachedContentType;
 		bool isVisible;
 		bool disposed;
 
-		public DisassemblyDocumentTabContent(IDocumentViewerContentFactoryProvider documentViewerContentFactoryProvider, IContentType contentType, DisassemblyContentProvider contentProvider, string title) {
+		public DisassemblyDocumentTabContent(IDocumentViewerContentFactoryProvider documentViewerContentFactoryProvider, IContentType contentType, DisassemblyContentProvider contentProvider) {
 			this.documentViewerContentFactoryProvider = documentViewerContentFactoryProvider;
 			this.contentProvider = contentProvider;
 			asmContentType = contentType;
-			Title = title ?? dnSpy_Resources.Disassembly_TabTitle;
+			Title = contentProvider.Title ?? dnSpy_Resources.Disassembly_TabTitle;
+			ToolTip = contentProvider.Description;
 			contentProvider.OnContentChanged += DisassemblyContentProvider_OnContentChanged;
 		}
 
@@ -62,7 +64,7 @@ namespace dnSpy.Disassembly.Viewer {
 		}
 
 		public override DocumentTabContent Clone() =>
-			new DisassemblyDocumentTabContent(documentViewerContentFactoryProvider, asmContentType, contentProvider.Clone(), Title);
+			new DisassemblyDocumentTabContent(documentViewerContentFactoryProvider, asmContentType, contentProvider.Clone());
 		public override DocumentTabUIContext CreateUIContext(IDocumentTabUIContextLocator locator) =>
 			(DocumentTabUIContext)locator.Get<IDocumentViewer>();
 
@@ -70,7 +72,7 @@ namespace dnSpy.Disassembly.Viewer {
 			Debug.Assert(!isVisible);
 			isVisible = true;
 			var documentViewer = (IDocumentViewer)ctx.UIContext;
-			if (cachedDocumentViewerContent == null)
+			if (cachedDocumentViewerContent is null)
 				(cachedDocumentViewerContent, cachedContentType) = CreateContent(documentViewer);
 			documentViewer.SetContent(cachedDocumentViewerContent, cachedContentType);
 		}
@@ -82,7 +84,7 @@ namespace dnSpy.Disassembly.Viewer {
 			var bracesStack = new Stack<(int pos, char brace)>();
 			foreach (var info in disasmContent.Text) {
 				var text = info.Text;
-				if (info.Reference != null)
+				if (!(info.Reference is null))
 					output.Write(text, info.Reference, ToDecompilerReferenceFlags(info.ReferenceFlags), info.Color);
 				else
 					output.Write(text, info.Color);

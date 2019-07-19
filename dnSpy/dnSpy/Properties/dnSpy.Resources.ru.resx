@@ -2039,4 +2039,28 @@
   <data name="UnknownValue" xml:space="preserve">
     <value>&lt;Неизвестно&gt;</value>
   </data>
+  <data name="TypeReferencesFolder" xml:space="preserve">
+    <value>Ссылки Типов</value>
+  </data>
+  <data name="TreeViewEventsFolder" xml:space="preserve">
+    <value>События</value>
+  </data>
+  <data name="TreeViewFieldsFolder" xml:space="preserve">
+    <value>Поля</value>
+  </data>
+  <data name="TreeViewMethodsFolder" xml:space="preserve">
+    <value>Методы</value>
+  </data>
+  <data name="TreeViewPropertiesFolder" xml:space="preserve">
+    <value>Свойства</value>
+  </data>
+  <data name="TreeViewTypesFolder" xml:space="preserve">
+    <value>Типы</value>
+  </data>
+  <data name="NumberBaseFormatString" xml:space="preserve">
+    <value>Base {0}:</value>
+  </data>
+  <data name="RawValue" xml:space="preserve">
+    <value>Raw:</value>
+  </data>
 </root>
