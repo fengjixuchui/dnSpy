@@ -3765,6 +3765,15 @@ namespace dnSpy.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Recent _Files.
+        /// </summary>
+        public static string RecentFilesCommand {
+            get {
+                return ResourceManager.GetString("RecentFilesCommand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to References.
         /// </summary>
         public static string ReferencesFolder {
@@ -4359,11 +4368,11 @@ namespace dnSpy.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search in GAC assemblies.
+        ///   Looks up a localized string similar to Search in framework assemblies.
         /// </summary>
-        public static string SearchWindow_SearchGacAssemblies {
+        public static string SearchWindow_SearchFrameworkAssemblies {
             get {
-                return ResourceManager.GetString("SearchWindow_SearchGacAssemblies", resourceCulture);
+                return ResourceManager.GetString("SearchWindow_SearchFrameworkAssemblies", resourceCulture);
             }
         }
         

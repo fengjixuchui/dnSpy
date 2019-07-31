@@ -831,8 +831,8 @@
   <data name="AboutScreen_LoadedFiles" xml:space="preserve">
     <value>Ficheiros carregados:</value>
   </data>
-  <data name="SearchWindow_SearchGacAssemblies" xml:space="preserve">
-    <value>Procurar em assemblies GAC</value>
+  <data name="SearchWindow_SearchFrameworkAssemblies" xml:space="preserve">
+    <value>Search in framework assemblies</value>
   </data>
   <data name="SearchWindow_Where_AllFiles" xml:space="preserve">
     <value>Todos os Ficheiros</value>
@@ -2059,5 +2059,8 @@ Filtro pode ser alterado nas opções do Explorador Assembly.</value>
   </data>
   <data name="RawValue" xml:space="preserve">
     <value>Raw:</value>
+  </data>
+  <data name="RecentFilesCommand" xml:space="preserve">
+    <value>Recent _Files</value>
   </data>
 </root>
