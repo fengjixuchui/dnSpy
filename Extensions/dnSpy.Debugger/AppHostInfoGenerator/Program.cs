@@ -37,6 +37,7 @@ namespace AppHostInfoGenerator {
 		// The code ignores known versions so all versions can be added.
 		//	^(\S+)\s.*		=>		\t\t\t"\1",
 		static readonly string[] DotNetAppHost_Versions_ToCheck = new string[] {
+			"3.0.0-preview8-28405-07",
 			"3.0.0-preview7-27912-14",
 			"3.0.0-preview6-27804-01",
 			"3.0.0-preview5-27626-15",
@@ -161,8 +162,7 @@ namespace AppHostInfoGenerator {
 					Console.WriteLine();
 					Console.WriteLine($"Runtime version: {version}");
 
-					byte[] fileData;
-					fileData = DownloadNuGetPackage("Microsoft.NETCore.DotNetAppHost", version, NuGetSource.NuGet);
+					var fileData = DownloadNuGetPackage("Microsoft.NETCore.DotNetAppHost", version, NuGetSource.NuGet);
 					using (var zip = new ZipArchive(new MemoryStream(fileData), ZipArchiveMode.Read, leaveOpen: false)) {
 						var runtimeJsonString = GetFileAsString(zip, "runtime.json");
 						var runtimeJson = (JObject)JsonConvert.DeserializeObject(runtimeJsonString);
@@ -171,8 +171,6 @@ namespace AppHostInfoGenerator {
 							if (runtime.Count != 1)
 								throw new InvalidOperationException("Expected 1 child");
 							var dotNetAppHostObject = (JObject)runtime.First;
-							if (dotNetAppHostObject.Count != 1)
-								throw new InvalidOperationException("Expected 1 child");
 							var dotNetAppHostObject2 = (JObject)dotNetAppHostObject["Microsoft.NETCore.DotNetAppHost"];
 							if (dotNetAppHostObject2.Count != 1)
 								throw new InvalidOperationException("Expected 1 child");
@@ -180,7 +178,7 @@ namespace AppHostInfoGenerator {
 							if (dotNetAppHostProperty.Count != 1)
 								throw new InvalidOperationException("Expected 1 child");
 							var runtimePackageName = dotNetAppHostProperty.Name;
-							var runtimePackageVersion = (string)((JValue)dotNetAppHostProperty.Value).Value;
+							var runtimePackageVersion = GetNuGetVersion((string)((JValue)dotNetAppHostProperty.Value).Value);
 							Console.WriteLine();
 							Console.WriteLine($"{runtimePackageName} {runtimePackageVersion}");
 							NuGetSource[] nugetSources;
@@ -203,6 +201,8 @@ namespace AppHostInfoGenerator {
 								continue;
 							}
 							Debug.Assert(!(ridData is null));
+							if (ridData is null)
+								throw new InvalidOperationException();
 							using (var ridZip = new ZipArchive(new MemoryStream(ridData), ZipArchiveMode.Read, leaveOpen: false)) {
 								var appHostEntries = GetAppHostEntries(ridZip).ToArray();
 								if (appHostEntries.Length == 0)
@@ -346,6 +346,18 @@ namespace AppHostInfoGenerator {
 				Console.WriteLine(ex.ToString());
 				return 1;
 			}
+		}
+
+		static string GetNuGetVersion(string version) {
+			if (version.StartsWith("[")) {
+				var parts = version.Substring(1).Split(',');
+				if (parts.Length != 2)
+					throw new InvalidOperationException();
+				if (!parts[1].EndsWith(" )"))
+					throw new InvalidOperationException();
+				return parts[0];
+			}
+			return version;
 		}
 
 		sealed class AppHostInfoDupeEqualityComparer : IEqualityComparer<AppHostInfo> {
