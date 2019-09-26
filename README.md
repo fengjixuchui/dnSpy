@@ -25,7 +25,7 @@ dnSpy uses the ILSpy decompiler engine and the Roslyn (C# / Visual Basic) compil
 
 [Latest release](https://github.com/0xd4d/dnSpy/releases)
 
-Latest build: [![Build status](https://ci.appveyor.com/api/projects/status/3utl4e1qkx7pamko/branch/master?svg=true)](https://ci.appveyor.com/project/0xd4d/dnspy/branch/master/artifacts)
+Latest build: [![Build status](https://ci.appveyor.com/api/projects/status/3utl4e1qkx7pamko/branch/master?svg=true)](https://ci.appveyor.com/project/0xd4d/dnspy/branch/master/artifacts)    [![](https://github.com/0xd4d/dnSpy/workflows/GitHub%20CI/badge.svg)](https://github.com/0xd4d/dnSpy/actions)
 
 Or build it from source, see the [Wiki](https://github.com/0xd4d/dnSpy/wiki/Building-dnSpy).
 
@@ -83,11 +83,12 @@ Or build it from source, see the [Wiki](https://github.com/0xd4d/dnSpy/wiki/Buil
 
 # List of other open source libraries used by dnSpy
 
-- ILSpy decompiler engine (C# and Visual Basic decompilers)
-- Roslyn (C# and Visual Basic compilers)
-- dnlib (.NET metadata reader/writer which can also read obfuscated assemblies)
-- VS MEF (Faster MEF equals faster startup)
-- ClrMD (Access to lower level debugging info not provided by the CorDebug API)
+- [ILSpy decompiler engine](https://github.com/icsharpcode/ILSpy) (C# and Visual Basic decompilers)
+- [Roslyn](https://github.com/dotnet/roslyn) (C# and Visual Basic compilers)
+- [dnlib](https://github.com/0xd4d/dnlib) (.NET metadata reader/writer which can also read obfuscated assemblies)
+- [VS MEF](https://github.com/microsoft/vs-mef) (Faster MEF equals faster startup)
+- [ClrMD](https://github.com/microsoft/clrmd) (Access to lower level debugging info not provided by the CorDebug API)
+- [Iced](https://github.com/0xd4d/iced) (x86/x64 disassembler)
 
 # Translating dnSpy
 
