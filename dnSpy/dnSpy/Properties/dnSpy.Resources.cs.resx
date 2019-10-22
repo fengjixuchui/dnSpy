@@ -118,571 +118,571 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About_Issues" xml:space="preserve">
-    <value>_مشکلات</value>
+    <value>Chyby</value>
   </data>
   <data name="About_LatestBuild" xml:space="preserve">
-    <value>اخرین _تالیف</value>
+    <value>Nejnovější _build</value>
   </data>
   <data name="About_LatestRelease" xml:space="preserve">
-    <value>_اخرین نسخه</value>
+    <value>Nejnovější re_lease</value>
   </data>
   <data name="About_Menu" xml:space="preserve">
-    <value>_درباره ما</value>
+    <value>O _aplikaci</value>
   </data>
   <data name="About_SourceCode" xml:space="preserve">
-    <value>_منبع کد</value>
+    <value>Zdrojový kód</value>
   </data>
   <data name="About_TabTitle" xml:space="preserve">
-    <value>درباره ما</value>
+    <value>O aplikaci</value>
   </data>
   <data name="AllFiles" xml:space="preserve">
-    <value>تمام فایل‌ها</value>
+    <value>Všechny soubory</value>
   </data>
   <data name="AssemblyExplorerCommand" xml:space="preserve">
-    <value>مدیریت Assembly</value>
+    <value>_Prohlížeč assembly</value>
   </data>
   <data name="AssemblyExplorerKey" xml:space="preserve">
-    <value>Ctrl+Alt+L</value>
+    <value>Ctrl + Alt + L</value>
   </data>
   <data name="AssemblyExplorerTitle" xml:space="preserve">
-    <value>مدیریت Assembly</value>
+    <value>Prohlížeč assembly</value>
   </data>
   <data name="BaseTypeFolder" xml:space="preserve">
-    <value>Base Type و Interfaces</value>
+    <value>Základní typ a rozhraní</value>
   </data>
   <data name="Button_Cancel" xml:space="preserve">
-    <value>_انصراف</value>
+    <value>Zrušit</value>
   </data>
   <data name="Button_No" xml:space="preserve">
-    <value>_خیر</value>
+    <value>_Ne</value>
   </data>
   <data name="Button_OK" xml:space="preserve">
-    <value>_قبول</value>
+    <value>OK</value>
   </data>
   <data name="Button_Save" xml:space="preserve">
-    <value>_ذخیره...</value>
+    <value>_Uložit...</value>
   </data>
   <data name="Button_Yes" xml:space="preserve">
-    <value>_بله</value>
+    <value>_Ano</value>
   </data>
   <data name="CantConvertInputToType" xml:space="preserve">
-    <value>نمی توان ورودی را به نوع مورد نظر تبدیل نمود: {0}</value>
+    <value>Nelze převést vstup na požadovaný typ: {0}</value>
   </data>
   <data name="CloseAllTabGroupsButThisCommand" xml:space="preserve">
-    <value>بستن تمام سربرگ گروه‌ها به جز این</value>
+    <value>Zavřít všechny skupiny záložek kromě této</value>
   </data>
   <data name="CloseAllTabsButThisCommand" xml:space="preserve">
-    <value>بستن _تمام به جز این</value>
+    <value>Z_avřít vše kromě této</value>
   </data>
   <data name="CloseAllTabsCommand" xml:space="preserve">
-    <value>بستن تمام سربرگ‌ها</value>
+    <value>Zavřít všechny zá_ložky</value>
   </data>
   <data name="CloseTabCommand" xml:space="preserve">
-    <value>_بستن</value>
+    <value>_Zavřít</value>
   </data>
   <data name="CloseTabGroupCommand" xml:space="preserve">
-    <value>بستن سربرگ گروه</value>
+    <value>Zavřít kartu skupiny</value>
   </data>
   <data name="CopyCommand" xml:space="preserve">
-    <value>کپی</value>
+    <value>Kopírovat</value>
   </data>
   <data name="CopyKey" xml:space="preserve">
-    <value>Ctrl+C</value>
+    <value>Ctrl + C</value>
   </data>
   <data name="CopyMDTokenCommand" xml:space="preserve">
-    <value>_کپی MD Token</value>
+    <value>Kopírovat metadatový token</value>
   </data>
   <data name="CouldNotStartBrowser" xml:space="preserve">
-    <value>ناتوانی در اجرا مرورگر</value>
+    <value>Nelze spustit prohlížeč</value>
   </data>
   <data name="DecompilationCanceled" xml:space="preserve">
-    <value>عملیات لغو گردید</value>
+    <value>Operace byla zrušena</value>
   </data>
   <data name="DecompilationException" xml:space="preserve">
-    <value>يک خطا رخ داده است</value>
+    <value>Vyskytla se chyba</value>
   </data>
   <data name="DecompileCancelButton" xml:space="preserve">
-    <value>انصراف</value>
+    <value>Zrušit</value>
   </data>
   <data name="Decompiling" xml:space="preserve">
-    <value>در حال دیکامپایل...</value>
+    <value>Dekompiluji...</value>
   </data>
   <data name="DerivedTypes" xml:space="preserve">
-    <value>Derived Types</value>
+    <value>Odvozené typy</value>
   </data>
   <data name="DotNetExes" xml:space="preserve">
-    <value>اجرایی.NET</value>
+    <value>Spustitelné soubory .NET</value>
   </data>
   <data name="EmptyTabTitle" xml:space="preserve">
-    <value>&lt;خالی&gt;</value>
+    <value>&lt;prázdné&gt;</value>
   </data>
   <data name="ExceptionMessage" xml:space="preserve">
-    <value>یک استثنا رخ داده است:</value>
+    <value>Došlo k výjimce:</value>
   </data>
   <data name="ExitAppCommand" xml:space="preserve">
-    <value>خروج</value>
+    <value>Od_ejít</value>
   </data>
   <data name="ExitAppKey" xml:space="preserve">
-    <value>Alt+F4</value>
+    <value>Alt + F4</value>
   </data>
   <data name="ExplorerOpenWithDnSpy" xml:space="preserve">
-    <value>باز کردن توسط dnspy</value>
+    <value>Otevřít pomocí dnSpy</value>
   </data>
   <data name="FindCommand" xml:space="preserve">
-    <value>_یافتن</value>
+    <value>Najít</value>
   </data>
   <data name="FindCommand2" xml:space="preserve">
-    <value>یافتن</value>
+    <value>Najít</value>
   </data>
   <data name="FindKey" xml:space="preserve">
-    <value>Ctrl+F</value>
+    <value>Ctrl + F</value>
   </data>
   <data name="FullScreenCommand" xml:space="preserve">
-    <value>ت_مام صفحه</value>
+    <value>F_ull Screen</value>
   </data>
   <data name="FullScreenKey" xml:space="preserve">
-    <value>Shift+Alt+Enter</value>
+    <value>Shift + Alt + Enter</value>
   </data>
   <data name="FullScreenToolBarCommand" xml:space="preserve">
-    <value>تمام صفحه</value>
+    <value>Full Screen</value>
   </data>
   <data name="GoToEntryPointCommand" xml:space="preserve">
-    <value>برو به _نقطه شروع(Entry Point)</value>
+    <value>Přejít na _entry point</value>
   </data>
   <data name="GoToGlobalCctorCommand" xml:space="preserve">
-    <value>برو به &lt;Module&gt; .ccto_r</value>
+    <value>Přejít na konstruktor &lt;Module&gt;</value>
   </data>
   <data name="GoToLine_EnterLineNum" xml:space="preserve">
-    <value>شماره خط را وارد کنید</value>
+    <value>Zadejte číslo řádku</value>
   </data>
   <data name="GoToLine_InvalidLine" xml:space="preserve">
-    <value>خط نامعتبر: {0}</value>
+    <value>Neplatný řádek: {0}</value>
   </data>
   <data name="GoToLine_Label" xml:space="preserve">
-    <value>_خط [، ستون]</value>
+    <value>Řádek [, sloupec]</value>
   </data>
   <data name="GoToLine_Title" xml:space="preserve">
-    <value>برو به خط</value>
+    <value>Přejít na řádek</value>
   </data>
   <data name="GoToReferenceCommand" xml:space="preserve">
-    <value>برو به Reference</value>
+    <value>Přejít na odkaz</value>
   </data>
   <data name="GoToReferenceKey" xml:space="preserve">
-    <value>دابل کلیک</value>
+    <value>Dvojklik</value>
   </data>
   <data name="GoToTokenCommand" xml:space="preserve">
-    <value>برو به M_D Token...</value>
+    <value>Přejít na M_D Token...</value>
   </data>
   <data name="GoToTokenKey" xml:space="preserve">
-    <value>Ctrl+D</value>
+    <value>Ctrl + D</value>
   </data>
   <data name="GoToToken_CouldNotResolve" xml:space="preserve">
-    <value>نمی توان عضو reference با توکن 0x{0:X8} را resolve نمود</value>
+    <value>Nelze resolvovat member reference token: 0x{0:X8}</value>
   </data>
   <data name="GoToToken_InvalidToken" xml:space="preserve">
-    <value>Metadata token نامعتبر: 0x{0:X8}</value>
+    <value>Neplatný metadata token: 0x{0:X8}</value>
   </data>
   <data name="GoToToken_Label" xml:space="preserve">
     <value>_Metadata token</value>
   </data>
   <data name="GoToToken_Title" xml:space="preserve">
-    <value>برو به MD Token</value>
+    <value>Jít na MD Token</value>
   </data>
   <data name="HideAllToolWindowsCommand" xml:space="preserve">
-    <value>م_خفی کردن تمام سربرگ‌ها</value>
+    <value>Sc_hovat všechny záložky</value>
   </data>
   <data name="HideToolWindowCommand" xml:space="preserve">
-    <value>_مخفی</value>
+    <value>Schovat</value>
   </data>
   <data name="HighlightLine" xml:space="preserve">
-    <value>_برجسته سازی این خط</value>
+    <value>Zvýraznit aktuální řádek</value>
   </data>
   <data name="InvalidInputTextMessageBox" xml:space="preserve">
-    <value>متن نامعتبر است</value>
+    <value>Text je neplatný</value>
   </data>
   <data name="LoadingDnSpyPleaseWait" xml:space="preserve">
-    <value>در حال بارگذاری dnSpy. لطفا صبر کنید...</value>
+    <value>Načítání dnSpy. Počkejte prosím...</value>
   </data>
   <data name="Menu_Edit" xml:space="preserve">
-    <value>_ویرایش</value>
+    <value>Upravit</value>
   </data>
   <data name="Menu_File" xml:space="preserve">
-    <value>_فایل</value>
+    <value>Soubor</value>
   </data>
   <data name="Menu_Help" xml:space="preserve">
-    <value>_کمک</value>
+    <value>Nápověda</value>
   </data>
   <data name="Menu_Themes" xml:space="preserve">
-    <value>_قالب</value>
+    <value>Schéma</value>
   </data>
   <data name="Menu_View" xml:space="preserve">
-    <value>_نما</value>
+    <value>Zobrazit</value>
   </data>
   <data name="Menu_Windows" xml:space="preserve">
-    <value>_پنجره</value>
+    <value>Okno</value>
   </data>
   <data name="MergeAllTabGroupsCommand" xml:space="preserve">
-    <value>ادغام تمام سربرگ گروه‌ها</value>
+    <value>Sloučit všechny skupiny karet</value>
   </data>
   <data name="MessageBoxDontShowAgain" xml:space="preserve">
-    <value>_دیگر نمایش نده</value>
+    <value>Znovu nezobrazovat</value>
   </data>
   <data name="MoveAllTabsToNextTabGroupCommand" xml:space="preserve">
-    <value>انتقال همه به سربرگ گروه بعدی</value>
+    <value>Přesunout vše na další skupinu záložek</value>
   </data>
   <data name="MoveAllToPreviousTabGroupCommand" xml:space="preserve">
-    <value>انتقال همه به سربرگ گروه قبلی</value>
+    <value>Přesunout vše na předchozí skupinu záložek</value>
   </data>
   <data name="MoveBottomCommand" xml:space="preserve">
-    <value>_پایین</value>
+    <value>Spodek</value>
   </data>
   <data name="MoveLeftCommand" xml:space="preserve">
-    <value>_چپ</value>
+    <value>Levá strana</value>
   </data>
   <data name="MoveRightCommand" xml:space="preserve">
-    <value>_راست</value>
+    <value>Pravá strana</value>
   </data>
   <data name="MoveTabGroupAfterNextTabGroupCommand" xml:space="preserve">
-    <value>انتقال گروه زبانه به بعد از گروه زبانه بعدی</value>
+    <value>Přesunout skupinu karet po další skupině karet</value>
   </data>
   <data name="MoveTabGroupBeforePreviousTabGroupCommand" xml:space="preserve">
-    <value>انتقال گروه زبانه به بعد از گروه زبانه قبلی</value>
+    <value>Přesunout skupinu karet před další skupinou karet</value>
   </data>
   <data name="MoveToNextTabGroupCommand" xml:space="preserve">
-    <value>انتقال به سربرگ گروه ب_عدی</value>
+    <value>Přesunout do další skupiny karet</value>
   </data>
   <data name="MoveToolWindowCommand" xml:space="preserve">
-    <value>_انتقال</value>
+    <value>Přesunout</value>
   </data>
   <data name="MoveToolWindowGroupCommand" xml:space="preserve">
-    <value>انتقال _گروه</value>
+    <value>Přesunout skupinu</value>
   </data>
   <data name="MoveTopCommand" xml:space="preserve">
-    <value>_بالا</value>
+    <value>Vršek</value>
   </data>
   <data name="MoveToPreviousTabGroupCommand" xml:space="preserve">
-    <value>انتقال به سربرگ گروه ق_بلی</value>
+    <value>Přesunout do předchozí skupiny karet</value>
   </data>
   <data name="NavigateBackCommand" xml:space="preserve">
-    <value>حرکت به سمت عقب</value>
+    <value>Přejít zpět</value>
   </data>
   <data name="NavigateForwardCommand" xml:space="preserve">
-    <value>حرکت به سمت جلو</value>
+    <value>Přejít vpřed</value>
   </data>
   <data name="NewDataIsNotAnImage" xml:space="preserve">
-    <value>داده های جدید تصویر نیست.</value>
+    <value>Nová data nejsou obrázek.</value>
   </data>
   <data name="NewHorizontalTabGroupCommand" xml:space="preserve">
-    <value>گروه سربرگ افقی جدید</value>
+    <value>Nová horizontální skupina karet</value>
   </data>
   <data name="NewTabCommand" xml:space="preserve">
-    <value>_سربرگ جدید</value>
+    <value>Nová záložka</value>
   </data>
   <data name="NewVerticalTabGroupCommand" xml:space="preserve">
-    <value>گروه سربرگ _عمودی جدید</value>
+    <value>Nová vertikální skupina karet</value>
   </data>
   <data name="NewWindowCommand" xml:space="preserve">
-    <value>پنجره _جدید</value>
+    <value>_Nové okno</value>
   </data>
   <data name="OpenCommand" xml:space="preserve">
-    <value>_باز کردن...</value>
+    <value>Otevřít...</value>
   </data>
   <data name="OpenContainingFolderCommand" xml:space="preserve">
-    <value>_باز کردن محتویات فولدر</value>
+    <value>Otevřít obsahující složku</value>
   </data>
   <data name="OpenGACCommand" xml:space="preserve">
-    <value>باز کردن از _GAC...</value>
+    <value>Otevřít z _GAC...</value>
   </data>
   <data name="OpenGAC_CreatedBy_Label" xml:space="preserve">
-    <value>ایجاد شده توسط:</value>
+    <value>Vytvořil:</value>
   </data>
   <data name="OpenGAC_FileVersion_Label" xml:space="preserve">
-    <value>نسخه فایل:</value>
+    <value>Verze souboru:</value>
   </data>
   <data name="OpenGAC_Name_Column" xml:space="preserve">
-    <value>نام</value>
+    <value>Název</value>
   </data>
   <data name="OpenGAC_Name_Label" xml:space="preserve">
-    <value>نام:</value>
+    <value>Název:</value>
   </data>
   <data name="OpenGAC_Path_Label" xml:space="preserve">
-    <value>مسیر:</value>
+    <value>Cesta:</value>
   </data>
   <data name="OpenGAC_ShowDupes_CheckBox" xml:space="preserve">
-    <value>_نمایش تکراری‌ها</value>
+    <value>Zobrazit duplikáty</value>
   </data>
   <data name="OpenGAC_ShowFiles" xml:space="preserve">
-    <value>نمایش {0:n0} از {1:n0} فایل‌ها</value>
+    <value>Zobrazeno {0:n0} z {1:n0} souborů</value>
   </data>
   <data name="OpenGAC_Title" xml:space="preserve">
-    <value>باز کردن از GAC</value>
+    <value>Otevřít z GAC</value>
   </data>
   <data name="OpenGAC_Version_Column" xml:space="preserve">
-    <value>نسخه</value>
+    <value>Verze</value>
   </data>
   <data name="OpenGAC_Version_Label" xml:space="preserve">
-    <value>نسخه:</value>
+    <value>Verze:</value>
   </data>
   <data name="OpenInNewTabCommand" xml:space="preserve">
-    <value>باز کردن در _سربرگ جدید</value>
+    <value>Otevřít v nové záložce</value>
   </data>
   <data name="OpenInNewTabKey" xml:space="preserve">
-    <value>Ctrl+T</value>
+    <value>Ctrl + T</value>
   </data>
   <data name="OpenInNewTabKey2" xml:space="preserve">
-    <value>Ctrl+F12</value>
+    <value>Ctrl + F12</value>
   </data>
   <data name="OpenInNewTabKey3" xml:space="preserve">
-    <value>Ctrl+Click</value>
+    <value>Ctrl + klepnutí</value>
   </data>
   <data name="OpenKey" xml:space="preserve">
     <value>Ctrl+O</value>
   </data>
   <data name="OpenListCommand" xml:space="preserve">
-    <value>باز کردن ل_یست...</value>
+    <value>Otevřít l_ist...</value>
   </data>
   <data name="OpenList_AskForName" xml:space="preserve">
-    <value>_نام</value>
+    <value>Název</value>
   </data>
   <data name="OpenList_Files_Column" xml:space="preserve">
-    <value>فایل‌ها</value>
+    <value>Soubory</value>
   </data>
   <data name="OpenList_MissingName" xml:space="preserve">
-    <value>نام مفقود شده</value>
+    <value>Chybí jméno</value>
   </data>
   <data name="OpenList_Name_Column" xml:space="preserve">
-    <value>نام</value>
+    <value>Název</value>
   </data>
   <data name="OpenList_New_Button" xml:space="preserve">
-    <value>_جدید...</value>
+    <value>_Nový...</value>
   </data>
   <data name="OpenList_Open_Button" xml:space="preserve">
-    <value>_باز کردن</value>
+    <value>_Otevřít</value>
   </data>
   <data name="OpenList_Remove_Button" xml:space="preserve">
-    <value>حذف</value>
+    <value>Odstranit</value>
   </data>
   <data name="OpenList_SavedLists_CheckBox" xml:space="preserve">
-    <value>ذ_خیره لیست</value>
+    <value>Uložené seznamy</value>
   </data>
   <data name="OpenList_Search_Label" xml:space="preserve">
-    <value>_جستجو</value>
+    <value>Hledat</value>
   </data>
   <data name="OpenList_Title" xml:space="preserve">
-    <value>بازکردن فهرست</value>
+    <value>Otevřít seznam</value>
   </data>
   <data name="OpenToolBarToolTip" xml:space="preserve">
-    <value>باز کردن</value>
+    <value>Otevřít</value>
   </data>
   <data name="OptionsTitle" xml:space="preserve">
-    <value>تنظیمات</value>
+    <value>Nastavení</value>
   </data>
   <data name="Options_Misc_Button_EnableAllWarnings" xml:space="preserve">
-    <value>فعالسازی تمام پیغام‌های خطا</value>
+    <value>Povolit všechny varovné zprávy</value>
   </data>
   <data name="Options_Misc_UseMmapdIO" xml:space="preserve">
-    <value>استفاده از memory mapped I/O</value>
+    <value>Použít I/O namapované paměti</value>
   </data>
   <data name="ReferencesFolder" xml:space="preserve">
-    <value>References</value>
+    <value>Odkazy</value>
   </data>
   <data name="ReloadAsmsCommand" xml:space="preserve">
-    <value>بارگذاری‌مجدد تمام Assemblys</value>
+    <value>Znovu načíst všechna sestavení</value>
   </data>
   <data name="ResourcesFolder" xml:space="preserve">
-    <value>Resources</value>
+    <value>Zdroje</value>
   </data>
   <data name="SaveKey" xml:space="preserve">
     <value>Ctrl+S</value>
   </data>
   <data name="SaveResourceButton" xml:space="preserve">
-    <value>ذخیره</value>
+    <value>Uložit</value>
   </data>
   <data name="SearchAbortedMessage" xml:space="preserve">
-    <value>جستجو متوقف شد، بیش از {0:n0} نتیجه یافت شد.</value>
+    <value>Hledání bylo přerušeno, nalezeno více než {0:n0} výsledků.</value>
   </data>
   <data name="SearchAssembliesCommand" xml:space="preserve">
-    <value>_جستجو Assemblies</value>
+    <value>Hledat sestavení</value>
   </data>
   <data name="SearchAssembliesToolBarToolTip" xml:space="preserve">
-    <value>جستجو Assemblies</value>
+    <value>Hledat sestavení</value>
   </data>
   <data name="Searching" xml:space="preserve">
-    <value>در حال جستجو...</value>
+    <value>Hledání...</value>
   </data>
   <data name="SearchMsdnCommand" xml:space="preserve">
-    <value>جستجو در _MSDN</value>
+    <value>Hledat na MSDN</value>
   </data>
   <data name="SearchWindow_Options" xml:space="preserve">
-    <value>تنظیمات</value>
+    <value>Nastavení</value>
   </data>
   <data name="SearchWindow_SearchFor" xml:space="preserve">
-    <value>جستجو برای:</value>
+    <value>Hledat:</value>
   </data>
   <data name="ShowCodeCommand" xml:space="preserve">
-    <value>_کد</value>
+    <value>Kód</value>
   </data>
   <data name="ShowCodeKey" xml:space="preserve">
     <value>Ctrl+Alt+0</value>
   </data>
   <data name="OpenInNewTabKey4" xml:space="preserve">
-    <value>Shit + Double Click</value>
+    <value>Shift + dvojklepnutí</value>
   </data>
   <data name="SyntaxHighlightCommand" xml:space="preserve">
-    <value>قالب برجسته</value>
+    <value>Zvýraznění syntaxe</value>
   </data>
   <data name="TabsDlg_Activate_Button" xml:space="preserve">
-    <value>_فعال</value>
+    <value>_Aktivovat</value>
   </data>
   <data name="TabsDlg_CloseWindow_Button" xml:space="preserve">
-    <value>_بستن پنجره</value>
+    <value>Zavřít okno</value>
   </data>
   <data name="TabsDlg_Module_Column" xml:space="preserve">
-    <value>Module</value>
+    <value>Modul</value>
   </data>
   <data name="TabsDlg_Name_Column" xml:space="preserve">
-    <value>نام</value>
+    <value>Název</value>
   </data>
   <data name="TabsDlg_Path_Column" xml:space="preserve">
-    <value>مسیر</value>
+    <value>Cesta</value>
   </data>
   <data name="TabsDlg_Title" xml:space="preserve">
-    <value>پنجره‌ها</value>
+    <value>Okna</value>
   </data>
   <data name="UnknownError" xml:space="preserve">
-    <value>یک خطای ناشناخته رخ داد</value>
+    <value>Došlo k neznámé chybě</value>
   </data>
   <data name="UseHorizontalTabGroupsCommand" xml:space="preserve">
-    <value>استفاده از سربرگ گروه افقی</value>
+    <value>Použít horizontální skupiny karet</value>
   </data>
   <data name="UseVerticalTabGroupsCommand" xml:space="preserve">
-    <value>استفاده از گروه سربرگ ها به صورت عمودی</value>
+    <value>Použít vertikální skupiny karet</value>
   </data>
   <data name="WindowsCommand" xml:space="preserve">
-    <value>_پنجره ها...</value>
+    <value>Okna...</value>
   </data>
   <data name="WordWrapHeader" xml:space="preserve">
-    <value>پیوستگی _کلمات</value>
+    <value>Zalamování</value>
   </data>
   <data name="CloseTabButtonToolTip" xml:space="preserve">
-    <value>بستن</value>
+    <value>Zavřít</value>
   </data>
   <data name="DisplaySettings_DecompileType" xml:space="preserve">
-    <value>دیکامپایل اعضای یک کلاس محصور به جای عضو کلاس</value>
+    <value>Dekompilovat uzavírací třídu člena namísto člena třídy</value>
   </data>
   <data name="DisplaySettings_HighlightReferences" xml:space="preserve">
-    <value>برجسته کردن رفرنس ها</value>
+    <value>Zvýraznit odkazy</value>
   </data>
   <data name="DisplaySettings_RestoreTabs" xml:space="preserve">
-    <value>بازگرداندن زبانه ها در راه اندازی</value>
+    <value>Obnovit karty při spuštění</value>
   </data>
   <data name="DisplaySettings_ShowAssemblyPublicKeyToken" xml:space="preserve">
-    <value>نمایش public key token اسمبلی</value>
+    <value>Zobrazit token veřejného klíče sestavení</value>
   </data>
   <data name="DisplaySettings_ShowAssemblyVersion" xml:space="preserve">
-    <value>نمایش نسخه اسمبلی</value>
+    <value>Zobrazit verzi sestavení</value>
   </data>
   <data name="DisplaySettings_ShowLineNumbers" xml:space="preserve">
-    <value>نمایش شماره های خط</value>
+    <value>Zobrazit čísla řádků</value>
   </data>
   <data name="DisplaySettings_ShowTokens" xml:space="preserve">
-    <value>نشان دادن توکن های metadata</value>
+    <value>Zobrazit metadatové tokeny</value>
   </data>
   <data name="OptionsCommand" xml:space="preserve">
-    <value>_تنظیمات...</value>
+    <value>Možnosti...</value>
   </data>
   <data name="SearchWindow_AllAbove" xml:space="preserve">
-    <value>تمام موارد فوق</value>
+    <value>Vše z výše uvedených</value>
   </data>
   <data name="SearchWindow_AllAbove_Key" xml:space="preserve">
     <value>Ctrl+B</value>
   </data>
   <data name="SearchWindow_Assembly" xml:space="preserve">
-    <value>Assembly</value>
+    <value>Sestavení</value>
   </data>
   <data name="SearchWindow_AssemblyRef" xml:space="preserve">
-    <value>AssemblyRef</value>
+    <value>Odkazy na sestavení</value>
   </data>
   <data name="SearchWindow_CaseSensitiveSearch" xml:space="preserve">
-    <value>جستجوی حساس به حروف کوچک و بزرگ</value>
+    <value>Rozlišovat malá a velká písmena</value>
   </data>
   <data name="SearchWindow_Class" xml:space="preserve">
-    <value>Class</value>
+    <value>Třída</value>
   </data>
   <data name="SearchWindow_DecompileResources" xml:space="preserve">
-    <value>دیکامپایل ریسورس ها (مثلا XAML)</value>
+    <value>Dekompilovat zdroje (např. XAML)</value>
   </data>
   <data name="SearchWindow_Delegate" xml:space="preserve">
-    <value>Delegate</value>
+    <value>Delegát</value>
   </data>
   <data name="SearchWindow_Enum" xml:space="preserve">
-    <value>Enum</value>
+    <value>Enumerátor</value>
   </data>
   <data name="SearchWindow_Event" xml:space="preserve">
-    <value>Event</value>
+    <value>Událost</value>
   </data>
   <data name="SearchWindow_Event_Key" xml:space="preserve">
     <value>Ctrl+E</value>
   </data>
   <data name="SearchWindow_Field" xml:space="preserve">
-    <value>فیلد(Field)</value>
+    <value>Pole</value>
   </data>
   <data name="SearchWindow_Field_Key" xml:space="preserve">
     <value>Ctrl+F</value>
   </data>
   <data name="SearchWindow_Generic" xml:space="preserve">
-    <value>تایپ های عمومی</value>
+    <value>Obecný typ</value>
   </data>
   <data name="SearchWindow_Interface" xml:space="preserve">
-    <value>واسط</value>
+    <value>Rozhraní</value>
   </data>
   <data name="SearchWindow_Literal" xml:space="preserve">
-    <value>شماره/رشته</value>
+    <value>Číslo/řetězec</value>
   </data>
   <data name="SearchWindow_Literal_Key" xml:space="preserve">
     <value>Ctrl+L</value>
   </data>
   <data name="SearchWindow_Local" xml:space="preserve">
-    <value>متغیر محلی</value>
+    <value>Místní typy</value>
   </data>
   <data name="SearchWindow_Local_Key" xml:space="preserve">
-    <value>Ctrl+I</value>
+    <value>Ctrl+l</value>
   </data>
   <data name="SearchWindow_MatchAny" xml:space="preserve">
-    <value>مطابقت با هر عبارت جستجو</value>
+    <value>Porovnat jakýkoli hledaný výraz</value>
   </data>
   <data name="SearchWindow_MatchWholeWords" xml:space="preserve">
-    <value>مطابقت کل کلمه</value>
+    <value>Porovnat celá slova</value>
   </data>
   <data name="SearchWindow_Member" xml:space="preserve">
-    <value>عضو</value>
+    <value>Člen</value>
   </data>
   <data name="SearchWindow_Member_Key" xml:space="preserve">
     <value>Ctrl+U</value>
   </data>
   <data name="SearchWindow_Method" xml:space="preserve">
-    <value>متود</value>
+    <value>Metoda</value>
   </data>
   <data name="SearchWindow_Method_Key" xml:space="preserve">
     <value>Ctrl+M</value>
   </data>
   <data name="SearchWindow_Module" xml:space="preserve">
-    <value>Module</value>
+    <value>Modul</value>
   </data>
   <data name="SearchWindow_ModuleRef" xml:space="preserve">
-    <value>ModuleRef</value>
+    <value>Odkaz na modul</value>
   </data>
   <data name="SearchWindow_Namespace" xml:space="preserve">
-    <value>فضاهای نام</value>
+    <value>Jmenný prostor</value>
   </data>
   <data name="SearchWindow_NonGeneric" xml:space="preserve">
-    <value>Non-Generic Type</value>
+    <value>Obecný typ</value>
   </data>
   <data name="SearchWindow_Parameter" xml:space="preserve">
-    <value>Parameter</value>
+    <value>Parametr</value>
   </data>
   <data name="SearchWindow_ParameterLocal" xml:space="preserve">
-    <value>پارامتر/محلی</value>
+    <value>Parametr/Lokální typ</value>
   </data>
   <data name="SearchWindow_ParameterLocal_Key" xml:space="preserve">
     <value>Ctrl+N</value>
@@ -691,222 +691,222 @@
     <value>Ctrl+J</value>
   </data>
   <data name="SearchWindow_Property" xml:space="preserve">
-    <value>Property</value>
+    <value>Vlastnost</value>
   </data>
   <data name="SearchWindow_Property_Key" xml:space="preserve">
     <value>Ctrl+P</value>
   </data>
   <data name="SearchWindow_Resource" xml:space="preserve">
-    <value>Resource</value>
+    <value>Zdroj</value>
   </data>
   <data name="SearchWindow_Resource_Key" xml:space="preserve">
     <value>Ctrl+R</value>
   </data>
   <data name="SearchWindow_Struct" xml:space="preserve">
-    <value>Struct</value>
+    <value>Struktura</value>
   </data>
   <data name="SearchWindow_Title" xml:space="preserve">
-    <value>جستجو</value>
+    <value>Hledat</value>
   </data>
   <data name="SearchWindow_Type" xml:space="preserve">
-    <value>نوع(Type)</value>
+    <value>Typ</value>
   </data>
   <data name="SearchWindow_Type_Key" xml:space="preserve">
     <value>Ctrl+T</value>
   </data>
   <data name="ToolWindowWinPosButtonToolTip" xml:space="preserve">
-    <value>موقعیت پنجره</value>
+    <value>Umístění okna</value>
   </data>
   <data name="Theme_Blue" xml:space="preserve">
-    <value>_آبی</value>
+    <value>Modrý</value>
   </data>
   <data name="Theme_Dark" xml:space="preserve">
-    <value>_تیره</value>
+    <value>Tmavý</value>
   </data>
   <data name="Theme_HighContrast" xml:space="preserve">
-    <value>کنتراست _بالا</value>
+    <value>Vysoký kontrast</value>
   </data>
   <data name="Theme_Light" xml:space="preserve">
-    <value>_روشن</value>
+    <value>Světlý</value>
   </data>
   <data name="OpenGAC_Search_ToolTip" xml:space="preserve">
-    <value>جستجو</value>
+    <value>Hledat</value>
   </data>
   <data name="LanguageCommand" xml:space="preserve">
-    <value>زبان</value>
+    <value>Jazyk</value>
   </data>
   <data name="Language_OperatingSystemLanguage" xml:space="preserve">
-    <value>سیستم</value>
+    <value>Systém</value>
   </data>
   <data name="LanguageSwitchMessage" xml:space="preserve">
-    <value>شما باید dnSpy مجدداً اجرا کنید تا تغییرات بر روی آن اعمال شود.</value>
+    <value>Po změně jazyka musíte DnSpy restartovat.</value>
   </data>
   <data name="ShortCutKeyCtrlShiftO" xml:space="preserve">
     <value>Ctrl+Shift+O</value>
   </data>
   <data name="SortAsmsCommand" xml:space="preserve">
-    <value>مرتب کردن Assemblies</value>
+    <value>Třídit sestavení</value>
   </data>
   <data name="AskReadSettings" xml:space="preserve">
-    <value>آیا مایل به بارگذاری تنظیمات نام ذخیره شده هستید؟</value>
+    <value>Chcete načíst uložené nastavení?</value>
   </data>
   <data name="ExportToProjectCommand" xml:space="preserve">
-    <value>ذخیره به صورت _پروژه...</value>
+    <value>Exportovat do projektu...</value>
   </data>
   <data name="ExportToProject_Title" xml:space="preserve">
-    <value>ذخیره به صورت پروژه</value>
+    <value>Exportovat do projektu</value>
   </data>
   <data name="Error_FileAlreadyExists" xml:space="preserve">
-    <value>پرونده ای با نام حاضر در پوشه مقصد وجود دارد.</value>
+    <value>Soubor se stejným názvem jako cílová složka již existuje.</value>
   </data>
   <data name="Error_MissingDestinationFolder" xml:space="preserve">
-    <value>پوشه مقصد گم شده.</value>
+    <value>Chybí cílová složka.</value>
   </data>
   <data name="ExportToProject_Button_Export" xml:space="preserve">
-    <value>_استخراج</value>
+    <value>Exportovat</value>
   </data>
   <data name="ExportToProject_CreateResX" xml:space="preserve">
-    <value>ایجاد فایلهای .res_x</value>
+    <value>Vytvořit soubory .resx</value>
   </data>
   <data name="ExportToProject_DecompileXaml" xml:space="preserve">
-    <value>دیکامپایل baml به xaml</value>
+    <value>Dekompilovat BAML na XAML</value>
   </data>
   <data name="ExportToProject_DestinationFolder" xml:space="preserve">
-    <value>_پوشه</value>
+    <value>Složka</value>
   </data>
   <data name="ExportToProject_ExportFileMessage" xml:space="preserve">
-    <value>یک فایل دیکامپایل خواهد شد. برای دیکامپایل بیش از یک اسمبلی آنها را انتخاب کنید.</value>
+    <value>Jeden soubor bude dekompilován. Vyberte více než jedno sestavení pro dekompilování více než jednoho souboru.</value>
   </data>
   <data name="ExportToProject_ExportNFilesMessage" xml:space="preserve">
-    <value>{0:n0} فایل دیکامپایل خواهد شد.</value>
+    <value>{0:n0} souborů bude dekompilováno.</value>
   </data>
   <data name="ExportToProject_Language" xml:space="preserve">
-    <value>_زبان</value>
+    <value>Jazyk</value>
   </data>
   <data name="ExportToProject_OpenProjectInVisualStudio" xml:space="preserve">
-    <value>_بار کردن پروژه در Visual Studio</value>
+    <value>Otevřít projekt ve Visual Studiu</value>
   </data>
   <data name="ExportToProject_ProjectVersion" xml:space="preserve">
-    <value>_نسخه</value>
+    <value>Verze</value>
   </data>
   <data name="ExportToProject_SolutionFilename" xml:space="preserve">
-    <value>_سولیشن</value>
+    <value>Řešení</value>
   </data>
   <data name="ExportToProject_UnpackResources" xml:space="preserve">
-    <value>_آنپک ریسورس ها</value>
+    <value>Rozbalit zdroje</value>
   </data>
   <data name="Error_MissingFilename" xml:space="preserve">
-    <value>نام پرونده گم شده</value>
+    <value>Chybějící název souboru</value>
   </data>
   <data name="Button_Close" xml:space="preserve">
-    <value>_بستن</value>
+    <value>Zavřít</value>
   </data>
   <data name="ErrorExceptionOccurred" xml:space="preserve">
-    <value>یک خطا رخ داده است
+    <value>Došlo k výjimce
 
 {0}</value>
   </data>
   <data name="ExportToProject_ErrorLogMsg" xml:space="preserve">
-    <value>گزارش خطا</value>
+    <value>Protokol chyb</value>
   </data>
   <data name="DecompilerDlgTabTitle" xml:space="preserve">
-    <value>دیکامپایلر</value>
+    <value>Dekompilátor</value>
   </data>
   <data name="MemberKind_Events" xml:space="preserve">
-    <value>Events</value>
+    <value>Události</value>
   </data>
   <data name="MemberKind_Fields" xml:space="preserve">
-    <value>Fields</value>
+    <value>Pole</value>
   </data>
   <data name="MemberKind_Methods" xml:space="preserve">
-    <value>متود ها</value>
+    <value>Metody</value>
   </data>
   <data name="MemberKind_NestedTypes" xml:space="preserve">
-    <value>Nested Types</value>
+    <value>Vnořené typy</value>
   </data>
   <data name="MemberKind_Properties" xml:space="preserve">
-    <value>Propertieها</value>
+    <value>Vlastnosti</value>
   </data>
   <data name="AboutScreen_LicenseInfo" xml:space="preserve">
-    <value>dnSpy تحت لیسانس GPLv3 می باشد.</value>
+    <value>dnSpy je licencováno pod GPLv3.</value>
   </data>
   <data name="AboutScreen_LoadedFiles" xml:space="preserve">
-    <value>فایل های بارگذاری شده:</value>
+    <value>Načtené soubory:</value>
   </data>
   <data name="SearchWindow_SearchFrameworkAssemblies" xml:space="preserve">
     <value>Search in framework assemblies</value>
   </data>
   <data name="SearchWindow_Where_AllFiles" xml:space="preserve">
-    <value>تمام فایل‌ها</value>
+    <value>Všechny soubory</value>
   </data>
   <data name="SearchWindow_Where_FilesInSameFolder" xml:space="preserve">
-    <value>فایل ها در پوشه مشابه</value>
+    <value>Soubory ve stejné složce</value>
   </data>
   <data name="SearchWindow_Where_SelectedFiles" xml:space="preserve">
-    <value>پرونده های انتخاب شده</value>
+    <value>Vybrané soubory</value>
   </data>
   <data name="SearchWindow_Where_SelectedType" xml:space="preserve">
-    <value>تایپ انتخاب شده</value>
+    <value>Vybraný typ</value>
   </data>
   <data name="GoToResourceCommand" xml:space="preserve">
-    <value>رفتن به _ریسورس</value>
+    <value>Přejít na zdroj</value>
   </data>
   <data name="CollapseTreeViewNodesCommand" xml:space="preserve">
-    <value>بستن گره های _نمای درختی</value>
+    <value>Rozbalit uzly stromu</value>
   </data>
   <data name="CloseAllCommand" xml:space="preserve">
-    <value>بستن همه</value>
+    <value>Zavřít vše</value>
   </data>
   <data name="ExportToProject_NewGuid" xml:space="preserve">
-    <value>_جدید</value>
+    <value>Nový</value>
   </data>
   <data name="ExportToProject_ProjectGuid" xml:space="preserve">
-    <value>_GUID پروژه</value>
+    <value>GUID projektu</value>
   </data>
   <data name="ShortCutKeyCtrlShiftP" xml:space="preserve">
     <value>Ctrl+Shift+P</value>
   </data>
   <data name="About_Wiki" xml:space="preserve">
-    <value>_دفترچه راهنما</value>
+    <value>Encyklopedie</value>
   </data>
   <data name="Window_Output" xml:space="preserve">
-    <value>خروجی</value>
+    <value>Výstup</value>
   </data>
   <data name="Output_ClearAll_ToolTip" xml:space="preserve">
-    <value>حذف همه</value>
+    <value>Vymazat vše</value>
   </data>
   <data name="Output_ShowOutputFrom" xml:space="preserve">
-    <value>_نمایش خروجی از:</value>
+    <value>Zobrazit výstup z:</value>
   </data>
   <data name="Output_WordWrap_ToolTip" xml:space="preserve">
-    <value>تغییر وضعیت Word Wrap</value>
+    <value>Přepnout zalamování</value>
   </data>
   <data name="ShortCutKeyAlt2" xml:space="preserve">
     <value>Alt+2</value>
   </data>
   <data name="Window_Output2" xml:space="preserve">
-    <value>_خروجی</value>
+    <value>Výstup</value>
   </data>
   <data name="Output_Save_ToolTip" xml:space="preserve">
-    <value>ذخیره</value>
+    <value>Uložit</value>
   </data>
   <data name="ClearAllCommand" xml:space="preserve">
-    <value>حذف همه</value>
+    <value>Vymazat vše</value>
   </data>
   <data name="ShortCutKeyCtrlL" xml:space="preserve">
     <value>Ctrl+L</value>
   </data>
   <data name="TextFiles" xml:space="preserve">
-    <value>فایل های متنی</value>
+    <value>Textové soubory</value>
   </data>
   <data name="ShowLineNumbersCommand" xml:space="preserve">
-    <value>نمایش شماره های خط</value>
+    <value>Zobrazit čísla řádků</value>
   </data>
   <data name="ShortCutKeyCtrlDIGIT" xml:space="preserve">
     <value>Ctrl+{0}</value>
   </data>
   <data name="ShowTimestampsCommand" xml:space="preserve">
-    <value>نمایش Timestamps</value>
+    <value>Zobrazit časová razítka</value>
   </data>
   <data name="ShortCutKeyCtrlECtrlW" xml:space="preserve">
     <value>Ctrl+E, Ctrl+W</value>
@@ -918,505 +918,505 @@
     <value>Shift+Esc</value>
   </data>
   <data name="Window_Close" xml:space="preserve">
-    <value>بستن</value>
+    <value>Zavřít</value>
   </data>
   <data name="Window_Maximize" xml:space="preserve">
-    <value>بزرگنمایی</value>
+    <value>Maximalizovat</value>
   </data>
   <data name="Window_Minimize" xml:space="preserve">
-    <value>کوچک کردن</value>
+    <value>Minimalizovat</value>
   </data>
   <data name="Window_Restore" xml:space="preserve">
-    <value>برگرداندن به پایین</value>
+    <value>Obnovení z maximalizace</value>
   </data>
   <data name="BackgroundImageOptDlgTab" xml:space="preserve">
-    <value>تصویر پس زمینه</value>
+    <value>Obrázek na pozadí</value>
   </data>
   <data name="BgImgDisplayName_CodeEditor" xml:space="preserve">
-    <value>ویرایشگر کد</value>
+    <value>Editor kódu</value>
   </data>
   <data name="BgImgDisplayName_Default" xml:space="preserve">
-    <value>پنجره متن های دیگر</value>
+    <value>Ostatní textová okna</value>
   </data>
   <data name="BgImgDisplayName_DocumentViewer" xml:space="preserve">
-    <value>نمایشگر متن اصلی</value>
+    <value>Hlavní zobrazovač textu</value>
   </data>
   <data name="BgImgDisplayName_Logger" xml:space="preserve">
-    <value>گزارش پنجره</value>
+    <value>Okno protokolu</value>
   </data>
   <data name="BgImgDisplayName_REPL" xml:space="preserve">
-    <value>پنجره REPL</value>
+    <value>Okno REPL</value>
   </data>
   <data name="BgImgSettings_Direction" xml:space="preserve">
-    <value>جهت</value>
+    <value>Směr</value>
   </data>
   <data name="BgImgSettings_HorizontalOffset" xml:space="preserve">
-    <value>افست افقی</value>
+    <value>Vodorovný posun</value>
   </data>
   <data name="BgImgSettings_Images" xml:space="preserve">
-    <value>اضافه کردن مسیر به عکس ها و پویشه عکسها، یک مسیر در هر خط:</value>
+    <value>Přidání cest k obrázkům a složkám obrázků, jedna cesta na řádek:</value>
   </data>
   <data name="BgImgSettings_Interval" xml:space="preserve">
-    <value>مدت</value>
+    <value>Interval</value>
   </data>
   <data name="BgImgSettings_MaxHeight" xml:space="preserve">
-    <value>بیشترین ارتفاع</value>
+    <value>Maximální výška</value>
   </data>
   <data name="BgImgSettings_MaxWidth" xml:space="preserve">
-    <value>بیشترین پهنا</value>
+    <value>Maximální šířka</value>
   </data>
   <data name="BgImgSettings_Opacity" xml:space="preserve">
-    <value>شفافیت</value>
+    <value>Průhlednost</value>
   </data>
   <data name="BgImgSettings_Placement" xml:space="preserve">
-    <value>محل قرارگیری</value>
+    <value>Umístění</value>
   </data>
   <data name="BgImgSettings_RandomImage" xml:space="preserve">
-    <value>تصویر تصادفی</value>
+    <value>Náhodný obrázek</value>
   </data>
   <data name="BgImgSettings_Reset" xml:space="preserve">
-    <value>تنظیم مجدد</value>
+    <value>Resetovat</value>
   </data>
   <data name="BgImgSettings_Zoom" xml:space="preserve">
-    <value>زوم %</value>
+    <value>Zvětšení v %</value>
   </data>
   <data name="BgImgSettings_ShowImages" xml:space="preserve">
-    <value>نمایش تصاویر</value>
+    <value>Zobrazovat obrázky</value>
   </data>
   <data name="BgImgSettings_Stretch" xml:space="preserve">
-    <value>کش آمدن تصویر</value>
+    <value>Roztáhnout</value>
   </data>
   <data name="BgImgSettings_VerticalOffset" xml:space="preserve">
-    <value>افست عمودی</value>
+    <value>Vertikální posun</value>
   </data>
   <data name="ImagePlacement_Bottom" xml:space="preserve">
-    <value>پایین</value>
+    <value>Dole</value>
   </data>
   <data name="ImagePlacement_BottomLeft" xml:space="preserve">
-    <value>پایین سمت چپ</value>
+    <value>Vlevo dole</value>
   </data>
   <data name="ImagePlacement_BottomRight" xml:space="preserve">
-    <value>پایین سمت راست</value>
+    <value>Vpravo dole</value>
   </data>
   <data name="ImagePlacement_Center" xml:space="preserve">
-    <value>در مرکز</value>
+    <value>Uprostřed</value>
   </data>
   <data name="ImagePlacement_Left" xml:space="preserve">
-    <value>چپ</value>
+    <value>Vlevo</value>
   </data>
   <data name="ImagePlacement_Right" xml:space="preserve">
-    <value>راست</value>
+    <value>Vpravo</value>
   </data>
   <data name="ImagePlacement_Top" xml:space="preserve">
-    <value>بالا</value>
+    <value>Nahoře</value>
   </data>
   <data name="ImagePlacement_TopLeft" xml:space="preserve">
-    <value>بالا سمت چپ</value>
+    <value>Vlevo nahoře</value>
   </data>
   <data name="ImagePlacement_TopRight" xml:space="preserve">
-    <value>بالا سمت راست</value>
+    <value>Vpravo nahoře</value>
   </data>
   <data name="StretchDirection_Both" xml:space="preserve">
-    <value>هر دو</value>
+    <value>Oboje</value>
   </data>
   <data name="StretchDirection_DownOnly" xml:space="preserve">
-    <value>فقط پایین</value>
+    <value>Pouze dolů</value>
   </data>
   <data name="StretchDirection_UpOnly" xml:space="preserve">
-    <value>فقط بالا</value>
+    <value>Pouze nahoru</value>
   </data>
   <data name="Files_Images" xml:space="preserve">
-    <value>تصاویر</value>
+    <value>Obrázky</value>
   </data>
   <data name="BgImgSettings_BottomMarginPercent" xml:space="preserve">
-    <value>پایین حاشیه %</value>
+    <value>Dolní okraj v %</value>
   </data>
   <data name="BgImgSettings_LeftMarginPercent" xml:space="preserve">
-    <value>حاشیه چپ %</value>
+    <value>Levý okraj v %</value>
   </data>
   <data name="BgImgSettings_RightMarginPercent" xml:space="preserve">
-    <value>حاشیه راست %</value>
+    <value>Pravý okraj v %</value>
   </data>
   <data name="BgImgSettings_TopMarginPercent" xml:space="preserve">
-    <value>حاشیه بالا %</value>
+    <value>Horní okraj v %</value>
   </data>
   <data name="Search_FindNextToolTip" xml:space="preserve">
-    <value>یافتن بعدی</value>
+    <value>Najít další</value>
   </data>
   <data name="Search_FindPreviousToolTip" xml:space="preserve">
-    <value>یافتن قبلی</value>
+    <value>Najít předchozí</value>
   </data>
   <data name="Search_MatchCaseToolTip" xml:space="preserve">
-    <value>حساس به حروف کوچک و بزرگ</value>
+    <value>Rozlišovat velikost písmen</value>
   </data>
   <data name="Search_MatchWholeWordToolTip" xml:space="preserve">
-    <value>مطابقت کامل با کلمه</value>
+    <value>Porovnat celá slova</value>
   </data>
   <data name="Search_ReplaceAllToolTip" xml:space="preserve">
-    <value>جایگزین کردن همه</value>
+    <value>Nahradit vše</value>
   </data>
   <data name="Search_ReplaceNextToolTip" xml:space="preserve">
-    <value>جایگزینی بعدی</value>
+    <value>Nahradit další</value>
   </data>
   <data name="Search_UseRegularExpressionsToolTip" xml:space="preserve">
-    <value>استفاده از Regex</value>
+    <value>Použít regulární výrazy</value>
   </data>
   <data name="Search_ToggleReplaceModeToolTip" xml:space="preserve">
-    <value>سوییچ بین حالت جستجو و جایگزینی</value>
+    <value>Přepnout pro přepínání režimy mezi najít a nahradit</value>
   </data>
   <data name="Search_CloseToolTip" xml:space="preserve">
-    <value>بستن</value>
+    <value>Zavřít</value>
   </data>
   <data name="IncrementalSearchCommand" xml:space="preserve">
-    <value>جستجوی افزایشی</value>
+    <value>Inkrementální hledání</value>
   </data>
   <data name="ShortCutKeyCtrlI" xml:space="preserve">
-    <value>Ctrl+I</value>
+    <value>Ctrl+l</value>
   </data>
   <data name="ShortCutKeyAltPlusAnyKey" xml:space="preserve">
     <value>Alt+{0}</value>
   </data>
   <data name="SignatureHelp_Signature_N_of_TotalCount" xml:space="preserve">
-    <value>{0} از {1}</value>
+    <value>{0} z {1}</value>
   </data>
   <data name="UriFollowLinkMessage" xml:space="preserve">
-    <value>CTRL + کلیک بر روی لینک زیر</value>
+    <value>CTRL + klepnutí pro otevření odkazu</value>
   </data>
   <data name="EnvironmentSettings" xml:space="preserve">
-    <value>محیط</value>
+    <value>Prostředí</value>
   </data>
   <data name="GeneralSettings" xml:space="preserve">
-    <value>عمومی</value>
+    <value>Obecné</value>
   </data>
   <data name="GeneralSettings_Theme" xml:space="preserve">
-    <value>پوسته</value>
+    <value>Motiv</value>
   </data>
   <data name="IntegrateWithWindowsExplorer" xml:space="preserve">
-    <value>تنظیم با Windows Explorer</value>
+    <value>Integrace s prohlížečem Windows</value>
   </data>
   <data name="AssemblyExplorerSettings_Order" xml:space="preserve">
-    <value>سفارش (نیاز به راه اندازی مجدد)</value>
+    <value>Pořadí (nutný restart)</value>
   </data>
   <data name="AssemblyExplorerSettings_SingleClickExpandNodes" xml:space="preserve">
-    <value>تک کلیک برای گسترش گره ها</value>
+    <value>Jedno klepnutí rozbalí uzly</value>
   </data>
   <data name="AssemblyExplorerSettings_SyntaxHighlight" xml:space="preserve">
-    <value>قالب برجسته</value>
+    <value>Zvýraznění syntaxe</value>
   </data>
   <data name="FontSettings" xml:space="preserve">
-    <value>فونت</value>
+    <value>Písmo</value>
   </data>
   <data name="CodeEditorSettings" xml:space="preserve">
-    <value>ویرایشگر کد</value>
+    <value>Editor kódu</value>
   </data>
   <data name="TabsSettings" xml:space="preserve">
-    <value>سربرگ‌ها</value>
+    <value>Záložky</value>
   </data>
   <data name="TextEditorConvertTabsToSpaces" xml:space="preserve">
-    <value>تبدیل تب به فاصله ها</value>
+    <value>Převést záložky na mezery</value>
   </data>
   <data name="TextEditorLineNumbers" xml:space="preserve">
-    <value>شماره های خط</value>
+    <value>Čísla řádků</value>
   </data>
   <data name="TextEditorVirtualSpace" xml:space="preserve">
-    <value>فاصله مجازی</value>
+    <value>Virtuální prostor</value>
   </data>
   <data name="TextEditorWordWrap" xml:space="preserve">
-    <value>پیوستگی _کلمات</value>
+    <value>Zalamování</value>
   </data>
   <data name="TextEditorIndentSize" xml:space="preserve">
-    <value>اندازه دندانه</value>
+    <value>Velikost indexu</value>
   </data>
   <data name="TextEditorTabSize" xml:space="preserve">
-    <value>اندازه تب</value>
+    <value>Velikost záložek</value>
   </data>
   <data name="TextViewerSettings" xml:space="preserve">
-    <value>نمایشگر متن</value>
+    <value>Textový prohlížeč</value>
   </data>
   <data name="AdvancedSettings" xml:space="preserve">
-    <value>پیشرفته</value>
+    <value>Pokočilé</value>
   </data>
   <data name="ScrollBarsSettings" xml:space="preserve">
-    <value>نوارهای پیمایش</value>
+    <value>Posuvníky</value>
   </data>
   <data name="TextEditorCompressEmptyOrWhitespaceLines" xml:space="preserve">
-    <value>فشرده کردن خطهای خالی</value>
+    <value>Stlačit prázdné řádky</value>
   </data>
   <data name="TextEditorCompressNonLetterLines" xml:space="preserve">
-    <value>فشردن خطوطی کاراکتر الفبایی ندارند</value>
+    <value>Stlačit řádky které nemají žádné alfanumerické znaky</value>
   </data>
   <data name="TextEditorGlyphMargin" xml:space="preserve">
-    <value>حاشیه های شاخص</value>
+    <value>Indicator margin</value>
   </data>
   <data name="TextEditorHighlightCurrentLine" xml:space="preserve">
-    <value>_برجسته سازی این خط</value>
+    <value>Highlight current line</value>
   </data>
   <data name="TextEditorHighlightMatchingBrace" xml:space="preserve">
-    <value>برجسته کردن پرانتزها</value>
+    <value>Highlight braces</value>
   </data>
   <data name="TextEditorHighlightRelatedKeywords" xml:space="preserve">
-    <value>برجسته کردن کلمات کلیدی مرتبط</value>
+    <value>Highlight related keywords</value>
   </data>
   <data name="TextEditorHorizontalScrollBar" xml:space="preserve">
-    <value>نمایش نوار پیمایش _افقی</value>
+    <value>Show _horizontal scroll bar</value>
   </data>
   <data name="TextEditorLineHeight" xml:space="preserve">
-    <value>ارتفاع خط</value>
+    <value>Line height</value>
   </data>
   <data name="TextEditorLineSeparators" xml:space="preserve">
-    <value>نشان دادن رویه جدا کننده خط</value>
+    <value>Show procedure line separators</value>
   </data>
   <data name="TextEditorMargins" xml:space="preserve">
-    <value>حاشیه ها</value>
+    <value>Margins</value>
   </data>
   <data name="TextEditorMinimumLineSpacing" xml:space="preserve">
-    <value>فاصله خطوط اضافی را ایجاد نکن</value>
+    <value>Don't add extra line spacing</value>
   </data>
   <data name="TextEditorMouseWheelZoom" xml:space="preserve">
-    <value>زوم با چرخ ماوس</value>
+    <value>Mouse wheel zoom</value>
   </data>
   <data name="TextEditorReferenceHighlighting" xml:space="preserve">
-    <value>برجسته کردن رفرنس ها</value>
+    <value>Zvýraznit odkazy</value>
   </data>
   <data name="TextEditorSelectionMargin" xml:space="preserve">
-    <value>حاشیه انتخاب</value>
+    <value>Selection margin</value>
   </data>
   <data name="TextEditorShowStructureLines" xml:space="preserve">
-    <value>نمایش راهنماهای تورفتگی</value>
+    <value>Show indent guides</value>
   </data>
   <data name="TextEditorVerticalScrollBar" xml:space="preserve">
-    <value>نمایش نوار پیمایش _عمودی</value>
+    <value>Show _vertical scroll bar</value>
   </data>
   <data name="TextEditorZoom" xml:space="preserve">
-    <value>بزرگنمايی</value>
+    <value>Zoom</value>
   </data>
   <data name="TextEditorZoomControl" xml:space="preserve">
-    <value>کنترل بزرگنمایی</value>
+    <value>Zoom control</value>
   </data>
   <data name="OutputWindowSettings" xml:space="preserve">
-    <value>پنجره خروجی</value>
+    <value>Output Window</value>
   </data>
   <data name="TextEditorShowTimestamps" xml:space="preserve">
-    <value>نمایش Timestamps</value>
+    <value>Show timestamps</value>
   </data>
   <data name="ReplSettings" xml:space="preserve">
     <value>REPL</value>
   </data>
   <data name="AssemblyExplorerSettings_Filter" xml:space="preserve">
-    <value>فیلتر موارد کشیده شده</value>
+    <value>Dragged items filter</value>
   </data>
   <data name="DocumentFilterType_All" xml:space="preserve">
-    <value>تمام</value>
+    <value>All</value>
   </data>
   <data name="DocumentFilterType_AllSupported" xml:space="preserve">
-    <value>همگی پشتیبانی شده</value>
+    <value>All supported</value>
   </data>
   <data name="DocumentFilterType_DotNetOnly" xml:space="preserve">
-    <value>فقط .NET</value>
+    <value>.NET only</value>
   </data>
   <data name="AssemblyExplorer_AllFilesFilteredOut" xml:space="preserve">
-    <value>تمام فایل ها فیلتر شده اند.
-فیلتر را می توانید در تنظیمات اسمبلی اکسپلورر تغییر دهید.</value>
+    <value>All files have been filtered out.
+Filter can be changed in Assembly Explorer options.</value>
   </data>
   <data name="BlockStructureLineKind_DashedLines" xml:space="preserve">
-    <value>خطوط نقطه چین شده</value>
+    <value>Dashed lines</value>
   </data>
   <data name="BlockStructureLineKind_SolidLines" xml:space="preserve">
-    <value>خطوط یکپارچه</value>
+    <value>Solid lines</value>
   </data>
   <data name="ShortCutKeyCtrlShiftK" xml:space="preserve">
     <value>Ctrl+Shift+K</value>
   </data>
   <data name="BgImgDisplayName_HexEditor" xml:space="preserve">
-    <value>ویرایشگر Hex</value>
+    <value>Hex Editor</value>
   </data>
   <data name="HexEditorGroup_Default" xml:space="preserve">
-    <value>پیش‌فرض</value>
+    <value>Default</value>
   </data>
   <data name="HexEditorSettings" xml:space="preserve">
-    <value>ویرایشگر Hex</value>
+    <value>Hex Editor</value>
   </data>
   <data name="HexEditorEncoding" xml:space="preserve">
-    <value>رمزگذاری</value>
+    <value>Encoding</value>
   </data>
   <data name="HexEditorGroupSizeInBytes" xml:space="preserve">
-    <value>اندازه گروه</value>
+    <value>Group size</value>
   </data>
   <data name="HexEditorHighlightCurrentValue" xml:space="preserve">
-    <value>_برجسته سازی این خط</value>
+    <value>Highlight current value</value>
   </data>
   <data name="HexEditorOffsetFormat" xml:space="preserve">
-    <value>افست</value>
+    <value>Ofset</value>
   </data>
   <data name="HexEditorOffsetLowerCaseHex" xml:space="preserve">
-    <value>حروف کوچک هگز (آفست)</value>
+    <value>Lower case hex (offset)</value>
   </data>
   <data name="HexEditorValuesLowerCaseHex" xml:space="preserve">
-    <value>حروف بزرگ هگز (آفست)</value>
+    <value>Lower case hex (values)</value>
   </data>
   <data name="BlockStructureLineKind_None" xml:space="preserve">
-    <value>هیچ</value>
+    <value>Žádný</value>
   </data>
   <data name="HexEditorShowColumnLineSeparators" xml:space="preserve">
-    <value>نشان دادن ستون جدا کننده خط</value>
+    <value>Show column line separators</value>
   </data>
   <data name="GoToOffset_Offset_Label" xml:space="preserve">
-    <value>O_ffset</value>
+    <value>Ofset</value>
   </data>
   <data name="GoToOffset_Title" xml:space="preserve">
-    <value>رفتن به افست</value>
+    <value>Go to Offset</value>
   </data>
   <data name="HexEditorSelect_End" xml:space="preserve">
-    <value>_پایان</value>
+    <value>_End</value>
   </data>
   <data name="HexEditorSelect_Start" xml:space="preserve">
-    <value>_شروع</value>
+    <value>_Start</value>
   </data>
   <data name="HexEditorSelect_Title" xml:space="preserve">
-    <value>انتخاب</value>
+    <value>Select</value>
   </data>
   <data name="InvalidValue" xml:space="preserve">
-    <value>مقدار نامعتبر</value>
+    <value>Invalid value</value>
   </data>
   <data name="ValueMustBeWithinRange" xml:space="preserve">
-    <value>مقدار باید بین {0} و {1} باشد</value>
+    <value>Value must be between {0} and {1}</value>
   </data>
   <data name="AnErrorOccurred" xml:space="preserve">
-    <value>خطایی رخ داده است:
+    <value>Došlo k chybě:
 
 {0}</value>
   </data>
   <data name="HexEditorSaveSelection_Title" xml:space="preserve">
-    <value>ذخیره انتخاب 0x{0:X}-0x{1:X}</value>
+    <value>Save Selection 0x{0:X}-0x{1:X}</value>
   </data>
   <data name="Button_DefaultSettings" xml:space="preserve">
-    <value>تنظیمات _پیش‌فرض</value>
+    <value>_Default Settings</value>
   </data>
   <data name="Button_RestoreSettings" xml:space="preserve">
-    <value>تنظیم مجدد</value>
+    <value>Resetovat</value>
   </data>
   <data name="BytesPerLineCommand" xml:space="preserve">
-    <value>بایت‌ در هر خط</value>
+    <value>Bytes per Line</value>
   </data>
   <data name="ClearByteCommand" xml:space="preserve">
-    <value>پاک کردن بایت</value>
+    <value>Clear Byte</value>
   </data>
   <data name="ClearSelectedBytesCommand" xml:space="preserve">
-    <value>پاک کردن بایت‌های انتخاب شده</value>
+    <value>Vymazat vybrané bajty</value>
   </data>
   <data name="CopyCSharpArrayCommand" xml:space="preserve">
-    <value>کپی بعنوان آرایه C#</value>
+    <value>Kopírovat pole C#</value>
   </data>
   <data name="CopyOffsetCommand" xml:space="preserve">
-    <value>کپی افست</value>
+    <value>Kopírovat ofset</value>
   </data>
   <data name="CopySpecialCommand" xml:space="preserve">
-    <value>کپی ویژه</value>
+    <value>Kopírovat zvláštní</value>
   </data>
   <data name="CopyTextCommand" xml:space="preserve">
-    <value>کپی بعنوان متن</value>
+    <value>Kopírovat text</value>
   </data>
   <data name="CopyUnicodeStringCommand" xml:space="preserve">
-    <value>کپی بعنوان رشته Unicode</value>
+    <value>Kopírovat řetězec Unicode</value>
   </data>
   <data name="CopyUTF8StringCommand" xml:space="preserve">
-    <value>کپی بعنوان رشته UTF-8</value>
+    <value>Kopírovat řetězec UTF-8</value>
   </data>
   <data name="CopyVisualBasicArrayCommand" xml:space="preserve">
-    <value>کپی بعنوان آرایه VB</value>
+    <value>Kopírovat pole jazyka Visual Basic</value>
   </data>
   <data name="FillSelectionCommand" xml:space="preserve">
-    <value>پرکردن قسمت انتخاب شده با بایت...</value>
+    <value>Vyplnit výběr bajty...</value>
   </data>
   <data name="FillSelection_Label" xml:space="preserve">
-    <value>_بایت</value>
+    <value>Bajt</value>
   </data>
   <data name="FillSelection_Title" xml:space="preserve">
-    <value>مقدار را وارد کنید</value>
+    <value>Zadat hodnotu</value>
   </data>
   <data name="GoToOffsetCommand" xml:space="preserve">
-    <value>رفتن به افست...</value>
+    <value>Přejděte na ofset...</value>
   </data>
   <data name="HexEditorSaveSelectionCommand" xml:space="preserve">
-    <value>ذخیره _قسمت انتخاب شده...</value>
+    <value>Save Se_lection...</value>
   </data>
   <data name="HexEditorSelectCommand" xml:space="preserve">
-    <value>انتخاب...</value>
+    <value>Select...</value>
   </data>
   <data name="HexEditorSettingsCommand" xml:space="preserve">
-    <value>تنظیمات...</value>
+    <value>Settings...</value>
   </data>
   <data name="HexEditor_BytesPerLine_16" xml:space="preserve">
-    <value>_16 بایت</value>
+    <value>_16 Bytes</value>
   </data>
   <data name="HexEditor_BytesPerLine_32" xml:space="preserve">
-    <value>_32 بایت</value>
+    <value>_32 Bytes</value>
   </data>
   <data name="HexEditor_BytesPerLine_48" xml:space="preserve">
-    <value>_48 بایت</value>
+    <value>_48 Bytes</value>
   </data>
   <data name="HexEditor_BytesPerLine_64" xml:space="preserve">
-    <value>_64 بایت</value>
+    <value>_64 Bytes</value>
   </data>
   <data name="HexEditor_BytesPerLine_8" xml:space="preserve">
-    <value>_8 بایت</value>
+    <value>_8 Bytes</value>
   </data>
   <data name="HexEditor_BytesPerLine_FitToWidth" xml:space="preserve">
-    <value>_متناسب با عرض</value>
+    <value>_Fit to Width</value>
   </data>
   <data name="LocalHexSettings_BaseOffset" xml:space="preserve">
-    <value>افست _پایه</value>
+    <value>_Base Offset</value>
   </data>
   <data name="LocalHexSettings_BaseOffset_ToolTip" xml:space="preserve">
-    <value>این مقدار قبل از اینکه نمایش داده شود به آفست شروع اضافه شده است</value>
+    <value>This value is added to start offset before it's shown on the screen</value>
   </data>
   <data name="LocalHexSettings_BytesPerLine" xml:space="preserve">
-    <value>_بایت‌ در هر خط</value>
+    <value>B_ytes per Line</value>
   </data>
   <data name="LocalHexSettings_EndOffset" xml:space="preserve">
-    <value>_افست پایانی</value>
+    <value>_End Offset</value>
   </data>
   <data name="LocalHexSettings_OffsetBitSize" xml:space="preserve">
-    <value>اندازه آفست _بیت</value>
+    <value>Offset Bi_t Size</value>
   </data>
   <data name="LocalHexSettings_ShowASCII" xml:space="preserve">
-    <value>_نمایش اسکی</value>
+    <value>Sho_w ASCII</value>
   </data>
   <data name="LocalHexSettings_ShowOffset" xml:space="preserve">
-    <value>نمایش _آفست</value>
+    <value>S_how Offset</value>
   </data>
   <data name="LocalHexSettings_ShowValues" xml:space="preserve">
-    <value>نمایش _مقادیر</value>
+    <value>Show _Values</value>
   </data>
   <data name="LocalHexSettings_StartOffset" xml:space="preserve">
-    <value>آفست _شروع</value>
+    <value>_Start Offset</value>
   </data>
   <data name="LocalHexSettings_Title" xml:space="preserve">
-    <value>تنظیمات محلی ویرایشگر هگز</value>
+    <value>Local Hex Editor Settings</value>
   </data>
   <data name="LocalHexSettings_UseRelOffsets" xml:space="preserve">
-    <value>استفاده از آفست های _نسبی</value>
+    <value>Use _Relative Offsets</value>
   </data>
   <data name="LocalHexSettings_UseRelOffsets_ToolTip" xml:space="preserve">
-    <value>همه آفست ها با شروع آفست نسبی هستند</value>
+    <value>All offsets are relative to the start offset</value>
   </data>
   <data name="LocalHexSettings_ValueFormat" xml:space="preserve">
-    <value>ارزش _فرمت</value>
+    <value>Value _Format</value>
   </data>
   <data name="PasteCommand" xml:space="preserve">
-    <value>_جای گذاری</value>
+    <value>_Vložit</value>
   </data>
   <data name="PasteDotNetMetaDataBlobCommand" xml:space="preserve">
-    <value>جای گذاری (داده های #Blob)</value>
+    <value>Paste (#Blob Data)</value>
   </data>
   <data name="PasteSpecialCommand" xml:space="preserve">
-    <value>جای گذاری ویژه</value>
+    <value>Paste Special</value>
   </data>
   <data name="PasteUnicodeCommand" xml:space="preserve">
-    <value>جای گذاری (یونیکد)</value>
+    <value>Paste (Unicode)</value>
   </data>
   <data name="PasteUTF8Command" xml:space="preserve">
-    <value>جای گذاری (UTF-8)</value>
+    <value>Paste (UTF-8)</value>
   </data>
   <data name="ShortCutKeyCtrl8" xml:space="preserve">
     <value>Ctrl+8</value>
@@ -1431,7 +1431,7 @@
     <value>Ctrl+B</value>
   </data>
   <data name="ShortCutKeyCtrlD" xml:space="preserve">
-    <value>Ctrl+D</value>
+    <value>Ctrl + D</value>
   </data>
   <data name="ShortCutKeyCtrlG" xml:space="preserve">
     <value>Ctrl+G</value>
@@ -1465,22 +1465,22 @@
     <comment>the delete key</comment>
   </data>
   <data name="ShowAllBytesCommand" xml:space="preserve">
-    <value>نمایش تمام بایت‌ها</value>
+    <value>Show All Bytes</value>
   </data>
   <data name="ShowOnlySelectedBytesCommand" xml:space="preserve">
-    <value>فقط نمایش بایت های انتخاب شده</value>
+    <value>Show Only Selected Bytes</value>
   </data>
   <data name="ValueFormatCommand" xml:space="preserve">
-    <value>فرمت مقادیر</value>
+    <value>Value Format</value>
   </data>
   <data name="ShortCutKeyF5" xml:space="preserve">
     <value>F5</value>
   </data>
   <data name="Refresh" xml:space="preserve">
-    <value>تازه‌سازی</value>
+    <value>Refresh</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>ویرایشگر متن</value>
+    <value>Text Editor</value>
   </data>
   <data name="Search_BigEndianToolTip" xml:space="preserve">
     <value>Big endian</value>
@@ -1498,10 +1498,10 @@
     <value>Ctrl+F</value>
   </data>
   <data name="PasteUnicodeAndLength7Command" xml:space="preserve">
-    <value>جای گذاری (یونیکد و طول)</value>
+    <value>Paste (Unicode and Length)</value>
   </data>
   <data name="PasteUTF8AndLength7Command" xml:space="preserve">
-    <value>جای گذاری (UTF-8 و طول)</value>
+    <value>Paste (UTF-8 and Length)</value>
   </data>
   <data name="ShortCutKeyCtrlKCtrl8" xml:space="preserve">
     <value>Ctrl+K, Ctrl+8</value>
@@ -1510,37 +1510,37 @@
     <value>Ctrl+K, Ctrl+U</value>
   </data>
   <data name="HexGoToCodeOrStructure" xml:space="preserve">
-    <value>رفتن به کد یا ساختار</value>
+    <value>Go to Code or Structure</value>
   </data>
   <data name="ShortCutKeyF12" xml:space="preserve">
     <value>F12</value>
   </data>
   <data name="HexEditorHighlightStructureUnderMouseCursor" xml:space="preserve">
-    <value>برجسته کردن ساختار زیر اشاره گر ماوس</value>
+    <value>Highlight structure under mouse cursor</value>
   </data>
   <data name="HexToolTipIndex" xml:space="preserve">
-    <value>فهرست</value>
+    <value>index</value>
   </data>
   <data name="HexToolTipOffset" xml:space="preserve">
-    <value>آفست</value>
+    <value>offset</value>
   </data>
   <data name="BigEndian" xml:space="preserve">
     <value>Big Endian</value>
   </data>
   <data name="CopyDataCommand" xml:space="preserve">
-    <value>کپی {0}</value>
+    <value>Copy {0}</value>
   </data>
   <data name="CopyAbsoluteFileOffsetCommand" xml:space="preserve">
-    <value>کپی آفست مطلق</value>
+    <value>Copy Absolute Offset</value>
   </data>
   <data name="CopyFileOffsetCommand" xml:space="preserve">
-    <value>کپی آفست فایل</value>
+    <value>Kopírovat offset souboru</value>
   </data>
   <data name="CopyRVACommand" xml:space="preserve">
-    <value>کپی RVA</value>
+    <value>Copy RVA</value>
   </data>
   <data name="CopyValueCommand" xml:space="preserve">
-    <value>کپی مقدار</value>
+    <value>Copy Value</value>
   </data>
   <data name="ShortCutKeyCtrlShiftQ" xml:space="preserve">
     <value>Ctrl+Shift+Q</value>
@@ -1555,13 +1555,13 @@
     <value>Ctrl+Shift+V</value>
   </data>
   <data name="GoToAbsolutePosition" xml:space="preserve">
-    <value>موقعیت</value>
+    <value>Position</value>
   </data>
   <data name="GoToCurrentPosition" xml:space="preserve">
-    <value>موقعیت فعلی</value>
+    <value>Current Position</value>
   </data>
   <data name="GoToFilePosition" xml:space="preserve">
-    <value>فایل</value>
+    <value>Soubor</value>
   </data>
   <data name="ShortCutKeyCtrl1" xml:space="preserve">
     <value>Ctrl+1</value>
@@ -1576,16 +1576,16 @@
     <value>Ctrl+4</value>
   </data>
   <data name="SelectToNewPosition" xml:space="preserve">
-    <value>_انتخاب موقعیت جدید</value>
+    <value>_Select to new position</value>
   </data>
   <data name="ShortCutKeyCtrlO" xml:space="preserve">
     <value>Ctrl+O</value>
   </data>
   <data name="SelectLength" xml:space="preserve">
-    <value>طول</value>
+    <value>Length</value>
   </data>
   <data name="GoToMetadata_Title" xml:space="preserve">
-    <value>برو به Metadata</value>
+    <value>Go to Metadata</value>
   </data>
   <data name="GoToMetadata_Token_Label" xml:space="preserve">
     <value>_Token</value>
@@ -1597,37 +1597,37 @@
     <value>Ctrl+6</value>
   </data>
   <data name="GoToMetadataCommand" xml:space="preserve">
-    <value>برو به Metadata...</value>
+    <value>Go to Metadata...</value>
   </data>
   <data name="ShortCutKeyCtrlM" xml:space="preserve">
     <value>Ctrl+M</value>
   </data>
   <data name="GoToMetadataInvalidOffsetOrToken" xml:space="preserve">
-    <value>آفست یا metadata نامعتبر است</value>
+    <value>Invalid offset or metadata token</value>
   </data>
   <data name="GoToMetadataMethodBody" xml:space="preserve">
-    <value>بدنه متود</value>
+    <value>Method Body</value>
   </data>
   <data name="GoToMetadataToken" xml:space="preserve">
-    <value>توکن Metadata</value>
+    <value>Metadata Token</value>
   </data>
   <data name="GoToMetadata_Index_Label" xml:space="preserve">
-    <value>_فهرست</value>
+    <value>_Index</value>
   </data>
   <data name="HexFollowFieldValueReference" xml:space="preserve">
-    <value>دنبال کردن منبع</value>
+    <value>Follow Reference</value>
   </data>
   <data name="ShortCutKeyCtrlF12" xml:space="preserve">
-    <value>Ctrl+F12</value>
+    <value>Ctrl + F12</value>
   </data>
   <data name="HexEditorSelectFileCommand" xml:space="preserve">
-    <value>انتخاب فایل</value>
+    <value>Select File</value>
   </data>
   <data name="HexEditorSelectNestedFileCommand" xml:space="preserve">
-    <value>انتخاب فایل های تو در تو</value>
+    <value>Select Nested File</value>
   </data>
   <data name="SelectSpecialCommand" xml:space="preserve">
-    <value>انتخاب ویژه</value>
+    <value>Select Special</value>
   </data>
   <data name="ShortCutKeyCtrlECtrlF" xml:space="preserve">
     <value>Ctrl+E, Ctrl+F</value>
@@ -1636,22 +1636,22 @@
     <value>Ctrl+E, Ctrl+N</value>
   </data>
   <data name="HexEditorSelectStructureCommand" xml:space="preserve">
-    <value>انتخاب ساختار</value>
+    <value>Select Structure</value>
   </data>
   <data name="ShortCutKeyCtrlECtrlS" xml:space="preserve">
     <value>Ctrl+E, Ctrl+S</value>
   </data>
   <data name="HexEditFieldCommand" xml:space="preserve">
-    <value>ویرایش Field</value>
+    <value>Upravit pole</value>
   </data>
   <data name="OptionColorizeText" xml:space="preserve">
-    <value>رنگ آمیزی متن</value>
+    <value>Colorize the text</value>
   </data>
   <data name="ShortCutKeyAltRightArrow" xml:space="preserve">
-    <value>Alt + پیکان راست</value>
+    <value>Alt+Right Arrow</value>
   </data>
   <data name="ShortCutKeyBackspace" xml:space="preserve">
-    <value>پسبرد</value>
+    <value>Backspace</value>
   </data>
   <data name="ShortCutKeyCtrlS" xml:space="preserve">
     <value>Ctrl+S</value>
@@ -1684,121 +1684,121 @@
     <value>Alt+R</value>
   </data>
   <data name="TimestampDateTimeFormat" xml:space="preserve">
-    <value>فرمت برچسب زمان</value>
+    <value>Timestamp format</value>
   </data>
   <data name="Window_Bookmarks" xml:space="preserve">
-    <value>نشانه‌ها</value>
+    <value>Bookmarks</value>
   </data>
   <data name="BookmarksOptDlgTab" xml:space="preserve">
-    <value>نشانه‌ها</value>
+    <value>Bookmarks</value>
   </data>
   <data name="BookmarksSettings_SyntaxHighlight" xml:space="preserve">
-    <value>قالب برجسته</value>
+    <value>Zvýraznění syntaxe</value>
   </data>
   <data name="SearchHelp_ToolTip" xml:space="preserve">
-    <value>کمک</value>
+    <value>Nápověda</value>
   </data>
   <data name="Column_Labels" xml:space="preserve">
-    <value>برچسب‌ها</value>
+    <value>Popisky</value>
   </data>
   <data name="Column_Location" xml:space="preserve">
-    <value>مکان</value>
+    <value>Umístění</value>
   </data>
   <data name="Column_Module" xml:space="preserve">
-    <value>Module</value>
+    <value>Modul</value>
   </data>
   <data name="Column_Name" xml:space="preserve">
-    <value>نام</value>
+    <value>Název</value>
   </data>
   <data name="Bookmarks_NoMatch" xml:space="preserve">
-    <value>نشانکی مطابق با فیلتر پیدا نشد.</value>
+    <value>No bookmarks match your search filter.</value>
   </data>
   <data name="Bookmarks_Search" xml:space="preserve">
-    <value>جستجو</value>
+    <value>Hledat</value>
   </data>
   <data name="BookmarksCommand" xml:space="preserve">
-    <value>_نشانک ها</value>
+    <value>Boo_kmarks</value>
   </data>
   <data name="BookmarksWindowCommand" xml:space="preserve">
-    <value>پنجره _نشانک</value>
+    <value>_Bookmark Window</value>
   </data>
   <data name="Bookmarks_ExportMatchingBookmarks_ToolTip" xml:space="preserve">
-    <value>خروجی رفتن همه نشانک ها مطابق معیارهای جستجوی کنونی</value>
+    <value>Export all bookmarks matching the current search criteria</value>
   </data>
   <data name="Bookmarks_GoToLocation_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک انتخاب شده.</value>
+    <value>Move the caret to the selected bookmark.</value>
   </data>
   <data name="Bookmarks_GoToNextBookmarkInFile_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک بعدی در فایل موجود.</value>
+    <value>Move the caret to the next bookmark in the current file.</value>
   </data>
   <data name="Bookmarks_GoToNextBookmarkSameLabel_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک بعدی با برچسب مشابه.</value>
+    <value>Move the caret to the next bookmark with the same label.</value>
   </data>
   <data name="Bookmarks_GoToNextBookmark_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک بعدی.</value>
+    <value>Move the caret to the next bookmark.</value>
   </data>
   <data name="Bookmarks_GoToPreviousBookmarkInFile_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک قبلی در فایل موجود.</value>
+    <value>Move the caret to the previous bookmark in the current file.</value>
   </data>
   <data name="Bookmarks_GoToPreviousBookmarkSameLabel_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک قبلی با برچسب مشابه.</value>
+    <value>Move the caret to the previous bookmark with the same label.</value>
   </data>
   <data name="Bookmarks_GoToPreviousBookmark_ToolTip" xml:space="preserve">
-    <value>انتقال هشتک به نشانک قبلی.</value>
+    <value>Move the caret to the previous bookmark.</value>
   </data>
   <data name="Bookmarks_ImportBookmarks_ToolTip" xml:space="preserve">
-    <value>وارد کردن نشانه ها از فایل</value>
+    <value>Import bookmarks from a file</value>
   </data>
   <data name="Bookmarks_RemoveBookmark_ToolTip" xml:space="preserve">
-    <value>حذف نشانه</value>
+    <value>Remove bookmark</value>
   </data>
   <data name="Bookmarks_RemoveMatchingBookmarks_ToolTip" xml:space="preserve">
-    <value>حذف همه نشانک ها مطابق معیارهای جستجوی کنونی</value>
+    <value>Remove all bookmarks matching the current search criteria</value>
   </data>
   <data name="Bookmarks_ResetSearchSettings_ToolTip" xml:space="preserve">
-    <value>تنظیم مجدد تمام معیار به طوری که همه نشانک ها نمایش داده شده</value>
+    <value>Reset all search criteria so that all bookmarks are shown</value>
   </data>
   <data name="Bookmarks_Search_ToolTip" xml:space="preserve">
-    <value>جستجو برای نشانک</value>
+    <value>Search for a bookmark</value>
   </data>
   <data name="Bookmarks_ToggleCreateBookmark_ToolTip" xml:space="preserve">
-    <value>تغییر وضعیت نشانه در خط فعلی.</value>
+    <value>Toggle a bookmark on the current line.</value>
   </data>
   <data name="Bookmarks_ToggleMatchingBookmarks_ToolTip" xml:space="preserve">
-    <value>فعال یا غیر فعال کردن همه نشانک ها مطابق معیارهای جستجوی کنونی</value>
+    <value>Enable or disable all bookmarks matching the current search criteria</value>
   </data>
   <data name="BookmarkDefaultName" xml:space="preserve">
-    <value>نشانه{0}</value>
+    <value>Bookmark{0}</value>
   </data>
   <data name="RenameCommand" xml:space="preserve">
-    <value>تغییرنام</value>
+    <value>Přejmenovat</value>
   </data>
   <data name="GoToBookmarkCommand" xml:space="preserve">
-    <value>برو به نشانه</value>
+    <value>Go To Bookmark</value>
   </data>
   <data name="ShortCutKeyCtrl_DIGIT" xml:space="preserve">
     <value>Ctrl+{0}</value>
   </data>
   <data name="DisableBookmarkCommand3" xml:space="preserve">
-    <value>غیرفعال کردن نشانه</value>
+    <value>Disable Bookmark</value>
   </data>
   <data name="EditLabelsCommand" xml:space="preserve">
-    <value>ویرایش برچسب‌ها</value>
+    <value>Upravit popisky</value>
   </data>
   <data name="EnableBookmarkCommand3" xml:space="preserve">
-    <value>فعالسازی نشانه</value>
+    <value>Enable Bookmark</value>
   </data>
   <data name="ExportSelectedCommand" xml:space="preserve">
-    <value>_استخراج گزینه انتخاب شده...</value>
+    <value>Exportovat vybrané...</value>
   </data>
   <data name="RemoveAllBookmarksCommand" xml:space="preserve">
-    <value>حذف تمام نشانه‌ها</value>
+    <value>Remove All Bookmarks</value>
   </data>
   <data name="RemoveBookmarkCommand" xml:space="preserve">
-    <value>حذف نشانه</value>
+    <value>Remove Bookmark</value>
   </data>
   <data name="SelectAllCommand" xml:space="preserve">
-    <value>انتخاب _همه</value>
+    <value>Vybrat vše</value>
   </data>
   <data name="ShortCutKeyCtrlA" xml:space="preserve">
     <value>Ctrl+A</value>
@@ -1807,70 +1807,70 @@
     <value>Ctrl+C</value>
   </data>
   <data name="ShortCutKeyEnter" xml:space="preserve">
-    <value>Enter</value>
+    <value>Vložit</value>
   </data>
   <data name="ShortCutKeyF2" xml:space="preserve">
     <value>F2</value>
   </data>
   <data name="ShowDeclaringTypesCommand" xml:space="preserve">
-    <value>نمایش اعلام انواع</value>
+    <value>Zobrazit deklarační typy</value>
   </data>
   <data name="ShowIntrinsicTypeKeywordsCommand" xml:space="preserve">
-    <value>نمایش نوع ذاتی کلمات کلیدی</value>
+    <value>Zobrazit slova klíčového typu</value>
   </data>
   <data name="ShowModuleNamesCommand" xml:space="preserve">
-    <value>نمایش نام های _ماژول</value>
+    <value>Zobrazit jména modulů</value>
   </data>
   <data name="ShowNamespacesCommand" xml:space="preserve">
-    <value>نمایش فضاهای نام</value>
+    <value>Zobrazit obory názvů</value>
   </data>
   <data name="ShowParameterNamesCommand" xml:space="preserve">
-    <value>نمایش نام های _پارامتر</value>
+    <value>Zobrazit názvy parametrů</value>
   </data>
   <data name="ShowParameterTypesCommand2" xml:space="preserve">
-    <value>نمایش نوع _پارامتر</value>
+    <value>Zobrazit typy parametrů</value>
   </data>
   <data name="ShowReturnTypesCommand" xml:space="preserve">
-    <value>نمایش انواع بازگشت</value>
+    <value>Zobrazit návratové typy</value>
   </data>
   <data name="ShowTokensCommand" xml:space="preserve">
-    <value>نمایش توکن ها(Tokens)</value>
+    <value>Zobrazit tokeny</value>
   </data>
   <data name="ShortCutKeyCtrlK_CtrlW" xml:space="preserve">
     <value>Ctrl+K, Ctrl+W</value>
   </data>
   <data name="ClearAllBookmarksInDocumentCommand" xml:space="preserve">
-    <value>پاکسازی تمام نشانه‌ها در سند</value>
+    <value>Clear All Bookmarks In Document</value>
   </data>
   <data name="ClearBookmarksCommand" xml:space="preserve">
-    <value>_پاکسازی نشانه‌ها</value>
+    <value>_Clear Bookmarks</value>
   </data>
   <data name="DisableAllBookmarksCommand" xml:space="preserve">
-    <value>غیرفعال کردن _تمام نشانه‌ها</value>
+    <value>Disable _All Bookmarks</value>
   </data>
   <data name="EnableAllBookmarksCommand" xml:space="preserve">
-    <value>فعالسازی _تمام نشانه‌ها</value>
+    <value>Enable _All Bookmarks</value>
   </data>
   <data name="EnableBookmarkCommand" xml:space="preserve">
-    <value>فعالسازی نشانه</value>
+    <value>Enable Bookmark</value>
   </data>
   <data name="GoToNextBookmarkCommand" xml:space="preserve">
-    <value>_نشانه بعدی</value>
+    <value>Next _Bookmark</value>
   </data>
   <data name="GoToNextBookmarkInDocumentCommand" xml:space="preserve">
-    <value>نشانه بعدی در سند</value>
+    <value>N_ext Bookmark In Document</value>
   </data>
   <data name="GoToNextBookmarkWithSameLabelCommand" xml:space="preserve">
-    <value>نشانه بعدی با برچسب مشابه</value>
+    <value>Next Bookmark With Same Label</value>
   </data>
   <data name="GoToPreviousBookmarkCommand" xml:space="preserve">
-    <value>نشانه _قبلی</value>
+    <value>_Previous Bookmark</value>
   </data>
   <data name="GoToPreviousBookmarkInDocumentCommand" xml:space="preserve">
-    <value>نشانه قبلی در سند</value>
+    <value>P_revious Bookmark In Document</value>
   </data>
   <data name="GoToPreviousBookmarkWithSameLabelCommand" xml:space="preserve">
-    <value>نشانه قبلی با برچسب مشابه</value>
+    <value>Previous Bookmark With Same Label</value>
   </data>
   <data name="ShortCutKeyCtrlK_CtrlK" xml:space="preserve">
     <value>Ctrl+K, Ctrl+K</value>
@@ -1885,58 +1885,58 @@
     <value>Ctrl+K, Ctrl+P</value>
   </data>
   <data name="ToggleBookmarkCommand" xml:space="preserve">
-    <value>_تغییر وضعیت نشانه</value>
+    <value>_Toggle Bookmark</value>
   </data>
   <data name="EditLabelsMsgBoxLabel" xml:space="preserve">
-    <value>برچسب‌ها</value>
+    <value>Popisky</value>
   </data>
   <data name="EditLabelsTitle" xml:space="preserve">
-    <value>ویرایش برچسب‌ها</value>
+    <value>Upravit popisky</value>
   </data>
   <data name="User_Administrator" xml:space="preserve">
-    <value>مدیر</value>
+    <value>Administrator</value>
   </data>
   <data name="AllowMoreThanOneInstance" xml:space="preserve">
-    <value>اجازه به بیش از یک نمونه (نیاز به راه اندازی مجدد)</value>
+    <value>Allow more than one instance (restart required)</value>
   </data>
   <data name="DisassemblerDlgTabTitle" xml:space="preserve">
-    <value>دیس‌اسمبلر</value>
+    <value>Disassembler</value>
   </data>
   <data name="CodeStyleDlgTabTitle" xml:space="preserve">
-    <value>استایل کد</value>
+    <value>Code Style</value>
   </data>
   <data name="DisassemblySettings_AddLabels" xml:space="preserve">
-    <value>افزودن برچسب ها</value>
+    <value>Add labels</value>
   </data>
   <data name="DisassemblySettings_AddLeadingZeroToHexNumbers" xml:space="preserve">
-    <value>اضافه کردن پیشوند '0' به اعداد هگز در صورت لزوم</value>
+    <value>Add leading '0' to hex numbers if needed</value>
   </data>
   <data name="DisassemblySettings_AlwaysShowMemorySize" xml:space="preserve">
-    <value>همیشه اندازه حافظه عملوندها را نشان بده</value>
+    <value>Always show size of memory operands</value>
   </data>
   <data name="DisassemblySettings_AlwaysShowScale" xml:space="preserve">
-    <value>نمایش مقدار مقیاس</value>
+    <value>Always show the scale value</value>
   </data>
   <data name="DisassemblySettings_AlwaysShowSegmentRegister" xml:space="preserve">
-    <value>همیشه بخش ثبات ها را نشان بده</value>
+    <value>Always show segment registers</value>
   </data>
   <data name="DisassemblySettings_DigitSeparator" xml:space="preserve">
-    <value>جدا کننده رقم</value>
+    <value>Digit separator</value>
   </data>
   <data name="DisassemblySettings_EmptyLineBetweenBasicBlocks" xml:space="preserve">
-    <value>اضافه کردن یک خط خالی بین بلاک ها</value>
+    <value>Add an empty line between blocks</value>
   </data>
   <data name="DisassemblySettings_HexPrefix" xml:space="preserve">
-    <value>پیشوند هگز</value>
+    <value>Hex prefix</value>
   </data>
   <data name="DisassemblySettings_HexSuffix" xml:space="preserve">
-    <value>پسوند هگز</value>
+    <value>Hex suffix</value>
   </data>
   <data name="DisassemblySettings_NewTab" xml:space="preserve">
-    <value>نمایش دیس‌اسمبلی در تب دیگر</value>
+    <value>Show disassembly in a new tab</value>
   </data>
   <data name="DisassemblySettings_OperandColumn" xml:space="preserve">
-    <value>ستون عملوند</value>
+    <value>Operand column</value>
   </data>
   <data name="DisassemblySettings_RipRelativeAddresses" xml:space="preserve">
     <value>RIP-relative addresses</value>
@@ -1951,64 +1951,64 @@
     <value>Add leading zeroes</value>
   </data>
   <data name="DisassemblySettings_ShowBranchSize" xml:space="preserve">
-    <value>نمایش اندازه شاخه</value>
+    <value>Show branch size</value>
   </data>
   <data name="DisassemblySettings_ShowInstructionAddress" xml:space="preserve">
-    <value>نمایش آدرس های دستور</value>
+    <value>Show instruction address</value>
   </data>
   <data name="DisassemblySettings_ShowInstructionBytes" xml:space="preserve">
-    <value>نمایش بایت های دستور</value>
+    <value>Show instruction bytes</value>
   </data>
   <data name="DisassemblySettings_ShowZeroDisplacements" xml:space="preserve">
-    <value>نمایش جابجایی های صفر</value>
+    <value>Show zero displacements</value>
   </data>
   <data name="DisassemblySettings_SignedImmediateOperands" xml:space="preserve">
-    <value>اعداد علامت دار</value>
+    <value>Signed numbers</value>
   </data>
   <data name="DisassemblySettings_SignedMemoryDisplacements" xml:space="preserve">
-    <value>جابجایی های علامت دار</value>
+    <value>Signed displacements</value>
   </data>
   <data name="DisassemblySettings_SmallHexNumbersInDecimal" xml:space="preserve">
-    <value>نمایش اعداد کوچک در دسیمال</value>
+    <value>Show small numbers in decimal</value>
   </data>
   <data name="DisassemblySettings_SpaceAfterMemoryBracket" xml:space="preserve">
-    <value>فاصله بعد از براکت های عملوند حافظه</value>
+    <value>Space after memory operand brackets</value>
   </data>
   <data name="DisassemblySettings_SpaceAfterOperandSeparator" xml:space="preserve">
-    <value>فاصله بعد از جدا کننده عملوند</value>
+    <value>Space after operand separator</value>
   </data>
   <data name="DisassemblySettings_SpacesBetweenMemoryAddOperators" xml:space="preserve">
-    <value>فضای بین '+'</value>
+    <value>Space between '+'</value>
   </data>
   <data name="DisassemblySettings_SpacesBetweenMemoryMulOperators" xml:space="preserve">
-    <value>فضای بین '*'</value>
+    <value>Space between '*'</value>
   </data>
   <data name="DisassemblySettings_UpperCaseAll" xml:space="preserve">
-    <value>همه چیز با حروف بزرگ</value>
+    <value>Upper case everything</value>
   </data>
   <data name="DisassemblySettings_UpperCaseHex" xml:space="preserve">
-    <value>اعداد هگز با حروف بزرگ</value>
+    <value>Upper case hex numbers</value>
   </data>
   <data name="DisassemblySettings_UpperCaseKeywords" xml:space="preserve">
-    <value>واؤه های کلیدی با حروف بزرگ</value>
+    <value>Upper case keywords</value>
   </data>
   <data name="DisassemblySettings_UpperCaseMnemonics" xml:space="preserve">
-    <value>حروف بزرگ mnemonics</value>
+    <value>Upper case mnemonics</value>
   </data>
   <data name="DisassemblySettings_UpperCasePrefixes" xml:space="preserve">
-    <value>پیشوندها با حروف بزرگ</value>
+    <value>Upper case prefixes</value>
   </data>
   <data name="DisassemblySettings_UpperCaseRegisters" xml:space="preserve">
-    <value>ثبات ها با حروف بزرگ</value>
+    <value>Upper case registers</value>
   </data>
   <data name="DisassemblySettings_UsePseudoOps" xml:space="preserve">
-    <value>شبه دستورات</value>
+    <value>Pseudo instructions</value>
   </data>
   <data name="DisassemblySettings_X86AssemblerSyntax" xml:space="preserve">
-    <value>سینتکس</value>
+    <value>Syntax</value>
   </data>
   <data name="DisassemblySettings_NakedRegisters" xml:space="preserve">
-    <value>ثبات های خام</value>
+    <value>Naked registers</value>
   </data>
   <data name="DisassemblySettings_ShowMnemonicSizeSuffix" xml:space="preserve">
     <value>Always show mnemonic size suffix</value>
@@ -2017,43 +2017,43 @@
     <value>Space after memory operand comma</value>
   </data>
   <data name="DisassemblySettings_UseHexNumbers" xml:space="preserve">
-    <value>شماره های هگز</value>
+    <value>Hex numbers</value>
   </data>
   <data name="Disassembly_TabTitle" xml:space="preserve">
     <value>Disassembly</value>
   </data>
   <data name="DisassemblySettings_ShowCode" xml:space="preserve">
-    <value>نمایش کد دیکامپایل شده</value>
+    <value>Show decompiled code</value>
   </data>
   <data name="DisassemblySettings_ShowILCode" xml:space="preserve">
-    <value>نمایش کدهای IL</value>
+    <value>Show IL code</value>
   </data>
   <data name="Disassembly_MethodIsNotOptimized" xml:space="preserve">
-    <value>متود بهینه نشده است</value>
+    <value>The method is not optimized</value>
   </data>
   <data name="DisassemblySettings_ShowSymbolAddress" xml:space="preserve">
     <value>Show symbol address</value>
   </data>
   <data name="Decompile_Timestamp" xml:space="preserve">
-    <value>برچسب زمان:</value>
+    <value>Časové razítko:</value>
   </data>
   <data name="UnknownValue" xml:space="preserve">
-    <value>&lt;نامشخص&gt;</value>
+    <value>&lt;Neznámá&gt;</value>
   </data>
   <data name="TypeReferencesFolder" xml:space="preserve">
     <value>Type References</value>
   </data>
   <data name="TreeViewEventsFolder" xml:space="preserve">
-    <value>رویدادها</value>
+    <value>Události</value>
   </data>
   <data name="TreeViewFieldsFolder" xml:space="preserve">
-    <value>Fieldها</value>
+    <value>Pole</value>
   </data>
   <data name="TreeViewMethodsFolder" xml:space="preserve">
-    <value>متود ها</value>
+    <value>Metody</value>
   </data>
   <data name="TreeViewPropertiesFolder" xml:space="preserve">
-    <value>Propertieها</value>
+    <value>Vlastnosti</value>
   </data>
   <data name="TreeViewTypesFolder" xml:space="preserve">
     <value>Types</value>
@@ -2071,6 +2071,6 @@
     <value>Instruction</value>
   </data>
   <data name="ToolTip_OpCode" xml:space="preserve">
-    <value>OpCode</value>
+    <value>Kód operace</value>
   </data>
 </root>
